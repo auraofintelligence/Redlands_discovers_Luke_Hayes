@@ -1,0 +1,117 @@
+{
+  "art_direction": "Warm cream, forest green, coral and gold painterly coastal editorial concept art.",
+  "assets": [
+    {
+      "path": "assets/images/home.png",
+      "generation_method": "OpenAI built-in ImageGen",
+      "created_on": "2026-10-16",
+      "description": "AI-generated concept artwork, not documentary photography.",
+      "prompt": "Create a sophisticated painterly editorial concept artwork for an Australian public ideas website. Warm cream, forest green and coral palette with gold light and restrained lavender accents. Cinematic wide landscape 16:9 composition, human scale, generous breathing space that crops well as a website hero. No printed words, letters, numbers, signage, logos or watermark. Clearly artwork, not documentary photography, not a factual diagram. Scene: Minjerribah-like subtropical island coast at dawn, looking from a sandy path through coastal trees toward blue green water and a broad open world horizon. Subtle luminous threads link a sketchbook and small musical instrument in the foreground to scattered ordinary community activity near the shoreline and onward to the horizon. Thoughtful, inviting, grounded in real coastal Australian life. Avoid cosmic spectacle. Warm gold sunrise.",
+      "sha256": "21d8b33941c0f48d3d1138c696359cb2270c9d87e8ce8ae8092988ce722a9902"
+    },
+    {
+      "path": "assets/images/redlands.png",
+      "generation_method": "OpenAI built-in ImageGen",
+      "created_on": "2026-10-16",
+      "description": "AI-generated concept artwork, not documentary photography.",
+      "prompt": "Create a sophisticated painterly editorial concept artwork for an Australian public ideas website. Warm cream, forest green and coral palette with gold light and restrained lavender accents. Cinematic wide landscape 16:9 composition, human scale, generous breathing space that crops well as a website hero. No printed words, letters, numbers, signage, logos or watermark. Clearly artwork, not documentary photography, not a factual diagram. Scene: Redlands-inspired mainland and island ferry shore in south east Queensland. A small passenger ferry near a jetty, ordinary people of varied ages walking, waiting, helping with bags, gathering by a shaded waterfront, distant coastal houses and island hills. A quietly energetic scene of everyday civic life across water, human relationships and shared public places. Rich forest green foliage, cream sky, coral accents in everyday clothing. No actual named vessel or venue. No candidates or politicians.",
+      "sha256": "709d0cec499752787a1073a9824a664934c19cfe0db552373c0a4572c399d8d0"
+    },
+    {
+      "path": "assets/images/p4a-music.png",
+      "generation_method": "OpenAI built-in ImageGen",
+      "created_on": "2026-10-16",
+      "description": "AI-generated concept artwork, not documentary photography.",
+      "prompt": "Create a sophisticated painterly editorial concept artwork for an Australian public ideas website. Warm cream, forest green and coral palette with gold light and restrained lavender accents. Cinematic wide landscape 16:9 composition, human scale, generous breathing space that crops well as a website hero. No printed words, letters, numbers, signage, logos or watermark. Clearly artwork, not documentary photography, not a factual diagram. Scene: a playful purple and gold outdoor festival and small open-air cinema stage beside the Australian coast in evening. A microphone stands in the foreground with a guitar, a cream cinema screen without any writing or depicted content, theatrical violet lighting and warm human silhouettes. Mood of musical satire, wit, democratic curiosity and joyful creativity. Loose purple ribbons and illuminated shapes, no party logos, no real politicians or candidates. Distinct strong graphic composition with warm gold light.",
+      "sha256": "09fda743c479f1bb305503bf0bab3f693326a4bd7fc51d9c7910784f3e409f38"
+    },
+    {
+      "path": "assets/images/lives-worth-living.png",
+      "generation_method": "OpenAI built-in ImageGen",
+      "created_on": "2026-10-16",
+      "description": "AI-generated concept artwork, not documentary photography.",
+      "prompt": "Create a sophisticated painterly editorial concept artwork for an Australian public ideas website. Warm cream, forest green and coral palette with gold light and restrained lavender accents. Cinematic wide landscape 16:9 composition, human scale, generous breathing space that crops well as a website hero. No printed words, letters, numbers, signage, logos or watermark. Clearly artwork, not documentary photography, not a factual diagram. Scene: an ordinary multigenerational community garden beside a coastal neighbourhood in Queensland. People sharing garden produce, a young adult learning a repair at a table, older people enjoying music, children playing with water in sunlight. Dignity, personal freedom over time, love and lives worth living. Varied ordinary people, no forced posing, thoughtful human moments across the scene. Cream sky and warm forest green foliage, coral and restrained lavender clothing, generous horizon. Avoid utopian towers or futuristic spectacle.",
+      "sha256": "8e076abfae37c52a2e321679dbc0ff15d255d5efc14ef67a089d546c6b0cb892"
+    },
+    {
+      "path": "assets/images/community.png",
+      "generation_method": "OpenAI built-in ImageGen",
+      "created_on": "2026-10-16",
+      "description": "AI-generated concept artwork, not documentary photography.",
+      "prompt": "Create a sophisticated painterly editorial concept artwork for an Australian public ideas website. Warm cream, forest green and coral palette with gold light and restrained lavender accents. Cinematic wide landscape 16:9 composition, human scale, generous breathing space that crops well as a website hero. No printed words, letters, numbers, signage, logos or watermark. Clearly artwork, not documentary photography, not a factual diagram. Scene: a welcoming coastal community makerspace in an airy timber workshop with large open doors overlooking Australian greenery. Varied adults and an older student learning together around a practical workbench and a single tall enclosed computer server rack, with handmade objects, a laptop and small repair projects. The rack is grounded and physically believable, integrated in the shared space, no impossible holograms. Practical learning, neighbourly capability and creativity. Warm daylight, cream walls, forest green details, coral work clothes.",
+      "sha256": "967445e682f3d33148d6923308361a2b93a99357b9e99f18f44b90d72ff653f5"
+    },
+    {
+      "path": "assets/images/aura-genesis.png",
+      "generation_method": "OpenAI built-in ImageGen",
+      "created_on": "2026-10-16",
+      "description": "AI-generated concept artwork, not documentary photography.",
+      "prompt": "Create a sophisticated painterly editorial concept artwork for an Australian public ideas website. Warm cream, forest green and coral palette with gold light and restrained lavender accents. Cinematic wide landscape 16:9 composition, human scale, generous breathing space that crops well as a website hero. No printed words, letters, numbers, signage, logos or watermark. Clearly artwork, not documentary photography, not a factual diagram. Scene: one unidentifiable adult person viewed from behind and in partial profile in an airy contemplative coastal room, looking toward an open sea horizon. Around the person, soft nested toroidal spatial light shapes form an elegant subtle translucent personal architecture, not angel wings or a religious halo. Gentle fragments of memory in warm reflected colours and a faint mirror-like second reflection evoke a developing personal intelligence. Human agency, curiosity and the continuity of a life. Beautiful restrained gold and lavender light against cream and forest green room. No claimed spiritual proof, no interfaces or text.",
+      "sha256": "11a417297aa2a839dd757c842521af32323db6d81f397590fe5d79bd6846f23a"
+    },
+    {
+      "path": "assets/images/hbot-geode.png",
+      "generation_method": "OpenAI built-in ImageGen",
+      "created_on": "2026-10-16",
+      "description": "AI-generated concept artwork, not documentary photography.",
+      "prompt": "Create a sophisticated painterly editorial concept artwork for an Australian public ideas website. Warm cream, forest green and coral palette with gold light and restrained lavender accents. Cinematic wide landscape 16:9 composition, human scale, generous breathing space that crops well as a website hero. No printed words, letters, numbers, signage, logos or watermark. Clearly artwork, not documentary photography, not a factual diagram. Scene: a plausible walk-in hyperbaric oxygen chamber within a proposed coastal workshop and wellbeing learning space, illustrated as architectural concept art. The compact cylindrical hard-shell chamber has circular viewports, a proper closed circular pressure door, exterior gauges without readable numbers and a neatly organised control panel, with comfortable upright chairs visible through generous viewports. Adjacent open workshop area, warm daylight, Australian coastal plants, a simple timber chair and a person thoughtfully discussing plans at a nearby table. Calm respectful medical setting, no treatment demonstration, no patient tubes, no health promises. Physically believable pressure vessel proportions, forest green structural accents and cream shell, subtle coral surroundings.",
+      "sha256": "16403805b6945f040cde4d90673797fdb63ec8f00463e33edd1cf42e0155cd28"
+    },
+    {
+      "path": "assets/images/continuity.png",
+      "generation_method": "OpenAI built-in ImageGen",
+      "created_on": "2026-10-16",
+      "description": "AI-generated concept artwork, not documentary photography.",
+      "prompt": "Use case: stylized-concept. Asset type: editorial website hero image, wide cinematic 16:9 landscape. Style: sophisticated painterly editorial concept art, organic textures, warm cream, forest green and coral palette, gold light, restrained lavender accent, human scale, understated hopeful mood. This is symbolic concept art, not a depiction of actual facilities or real identities. No printed words, lettering, logos, flags, watermarks, collage panels or diagram labels. An age-old timber voyaging ship with a few small travellers crosses a changing ocean, one side sunlit and the other with a gathering storm. Timber repairs and sails show many seasons. A subtle glimmer of shared memory and warm light within the ship evokes an enduring journey and the lives aboard; thoughtful and emotionally rich, not a literal philosophical diagram.",
+      "sha256": "dfadb519b6be25c813dda1ae1f7091b564b9e119b876caccb1ac2f32061accc4"
+    },
+    {
+      "path": "assets/images/australia-world.png",
+      "generation_method": "OpenAI built-in ImageGen",
+      "created_on": "2026-10-16",
+      "description": "AI-generated concept artwork, not documentary photography.",
+      "prompt": "Use case: stylized-concept. Asset type: editorial website hero image, wide cinematic 16:9 landscape. Style: sophisticated painterly editorial concept art, organic textures, warm cream, forest green and coral palette, gold light, restrained lavender accent, human scale, understated hopeful mood. This is symbolic concept art, not a depiction of actual facilities or real identities. No printed words, lettering, logos, flags, watermarks, collage panels or diagram labels. A Pacific coastal clearing beside an open wooden round table with a small gathering of people from many backgrounds listening to one another. Warm sea light and faint global city horizons beyond the ocean express international dialogue and Australia's connection to the world. An inviting natural setting, no leaders' likenesses or official insignia.",
+      "sha256": "f69a947034dc655c82072f50329c52c386cdf97f4ba0ac80465c57a45ccdb105"
+    },
+    {
+      "path": "assets/images/gajra-earth.png",
+      "generation_method": "OpenAI built-in ImageGen",
+      "created_on": "2026-10-16",
+      "description": "AI-generated concept artwork, not documentary photography.",
+      "prompt": "Use case: stylized-concept. Asset type: editorial website hero image, wide cinematic 16:9 landscape. Style: sophisticated painterly editorial concept art, organic textures, warm cream, forest green and coral palette, gold light, restrained lavender accent, human scale, understated hopeful mood. This is symbolic concept art, not a depiction of actual facilities or real identities. No printed words, lettering, logos, flags, watermarks, collage panels or diagram labels. A beautiful flower garland composed of many different textured blossoms loosely encircles a small living blue-green Earth at sunrise. Fine botanical textures, jasmine and warm coral blooms with foliage, vast soft sky, poetic and humane, generous negative space. A painterly scene, not a cartoon logo.",
+      "sha256": "51c3f77674552944750ca79bf59a9d4d9c9a4190e4b43b78157f5249d3ceeccc"
+    },
+    {
+      "path": "assets/images/future.png",
+      "generation_method": "OpenAI built-in ImageGen",
+      "created_on": "2026-10-16",
+      "description": "AI-generated concept artwork, not documentary photography.",
+      "prompt": "Use case: stylized-concept. Asset type: editorial website hero image, wide cinematic 16:9 landscape. Style: sophisticated painterly editorial concept art, organic textures, warm cream, forest green and coral palette, gold light, restrained lavender accent, human scale, understated hopeful mood. This is symbolic concept art, not a depiction of actual facilities or real identities. No printed words, lettering, logos, flags, watermarks, collage panels or diagram labels. People of several ages walk together along a coastal walkway in the quiet evening, looking toward distant softly illuminated inhabited future habitats among stars. The coastal home remains lush and welcoming, small warm windows and sea reflections. A curious humane horizon for long lives and discovery, no battles, no weapons or threatening craft. Sweeping lyrical space and ocean composition.",
+      "sha256": "133fe11fa411977690da4282b39d79e43cd893071d0af5268866ac32bda2db54"
+    },
+    {
+      "path": "assets/images/sources.png",
+      "generation_method": "OpenAI built-in ImageGen",
+      "created_on": "2026-10-16",
+      "description": "AI-generated concept artwork, not documentary photography.",
+      "prompt": "Use case: stylized-concept. Asset type: editorial website hero image, wide cinematic 16:9 landscape. Style: sophisticated painterly editorial concept art, organic textures, warm cream, forest green and coral palette, gold light, restrained lavender accent, human scale, understated hopeful mood. This is symbolic concept art, not a depiction of actual facilities or real identities. No printed words, lettering, logos, flags, watermarks, collage panels or diagram labels. A beautiful coastal studio archive table, papers without legible markings, several closed books, a small plant and simple reading lamp, a single broad window looking over the ocean. Soft late-afternoon gold light, cream plaster and forest-green details, rich tactile paper textures. A calm place for following sources and scholarship, no readable text.",
+      "sha256": "6a3f0dcadbb2db87e67a87f39d5e54bd9b51e8551ece880cc6dd0436412daab6"
+    },
+    {
+      "path": "assets/images/sitemap.png",
+      "generation_method": "OpenAI built-in ImageGen",
+      "created_on": "2026-10-16",
+      "description": "AI-generated concept artwork, not documentary photography.",
+      "prompt": "Use case: stylized-concept. Asset type: editorial website hero image, wide cinematic 16:9 landscape. Style: sophisticated painterly editorial concept art, organic textures, warm cream, forest green and coral palette, gold light, restrained lavender accent, human scale, understated hopeful mood. This is symbolic concept art, not a depiction of actual facilities or real identities. No printed words, lettering, logos, flags, watermarks, collage panels or diagram labels. A garden of gently intersecting coastal paths among several warmly lit small pavilions with simple contemporary timber architecture and lush plants. Overhead oblique scenic view, the ocean visible beyond, welcoming human figures at a small scale. A poetic metaphor for connections and exploration, not an accurate map, no text or symbols.",
+      "sha256": "61a757fa305fbaf6b7a9dbf549b649224c4b4656f41413612fb38ef4c61c207d"
+    },
+    {
+      "path": "assets/images/licence.png",
+      "generation_method": "OpenAI built-in ImageGen",
+      "created_on": "2026-10-16",
+      "description": "AI-generated concept artwork, not documentary photography.",
+      "prompt": "Use case: stylized-concept. Asset type: editorial website hero image, wide cinematic 16:9 landscape. Style: sophisticated painterly editorial concept art, organic textures, warm cream, forest green and coral palette, gold light, restrained lavender accent, human scale, understated hopeful mood. Close and warm composition of craftspeople's and artists' hands sharing a flowing colourful fabric artwork over an inviting timber table in a coastal creative studio. Different ages and skin tones, mutual respect and creative ownership in a welcoming community. Light filters through the fabric's translucent woven textures and casts coloured patterns across the wood. Symbolic concept art, not a photograph of real people or actual facilities. No printed words, lettering, logos, flags, watermarks or labels.",
+      "sha256": "684aed78524fccc10de10dd2cbf67b89fee7ce1674caf81e2ae0a36dd41481d3"
+    }
+  ]
+}

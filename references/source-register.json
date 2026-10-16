@@ -1,0 +1,1913 @@
+{
+  "schema_version": "1.0",
+  "document_title": "When Redlands discovers Luke Hayes",
+  "document_version": "4.0",
+  "as_of": "2026-10-16",
+  "citation_style": "Numbered citations with stable descriptive source IDs",
+  "path_base": "Site root and the folder containing the Word document",
+  "sources": [
+    {
+      "id": "hayes-redlands-mayoral-assessment",
+      "number": 1,
+      "title": "Redlands Mayoral By Election Assessment: Council, campaign law and the programme for Joyful Responsible Abundance",
+      "author": "Luke Nathan Hayes",
+      "publication_date": "2026-10-14",
+      "date_label": "14 October 2026",
+      "edition": null,
+      "kind": "supplied_document",
+      "role": "cited",
+      "url": null,
+      "accessed_on": null,
+      "note": "A council and public-programme assessment.",
+      "files": [
+        {
+          "original_filename": "Redlands_Mayoral_By_Election_Assessment_2026-10-14.pdf",
+          "path": "references/files/hayes-redlands-mayoral-by-election-assessment-2026-10-14.pdf",
+          "bytes": 857248,
+          "sha256": "b72f9af7cdf57e37330aba49d30d3b7af991374f389c4adc79222b81b7d5755d",
+          "media_type": "application/pdf",
+          "edition_relation": "exact supplied bytes"
+        }
+      ],
+      "links": [],
+      "locators": [],
+      "primary_href": "references/files/hayes-redlands-mayoral-by-election-assessment-2026-10-14.pdf"
+    },
+    {
+      "id": "hayes-constitutional-matrix",
+      "number": 2,
+      "title": "The Constitutional Matrix of Participation",
+      "author": "Luke Nathan Hayes",
+      "publication_date": "2014-07-15",
+      "date_label": "15 July 2014",
+      "edition": null,
+      "kind": "supplied_document",
+      "role": "cited",
+      "url": null,
+      "accessed_on": null,
+      "note": "Dated at Amity, Minjerribah. Includes earlier material separately dated December 2013.",
+      "files": [
+        {
+          "original_filename": "03 The Constitutional Matrix of Participation(3).pdf",
+          "path": "references/files/hayes-constitutional-matrix-of-participation-2014-07-15.pdf",
+          "bytes": 126800,
+          "sha256": "422988511a83dbd301aa1374189f72ab8552087a7a3c01c7dcc877704268b932",
+          "media_type": "application/pdf",
+          "edition_relation": "exact supplied bytes"
+        }
+      ],
+      "links": [],
+      "locators": [],
+      "primary_href": "references/files/hayes-constitutional-matrix-of-participation-2014-07-15.pdf"
+    },
+    {
+      "id": "hayes-man-and-mind",
+      "number": 3,
+      "title": "Luke Nathan Hayes: The Mind Behind the Man",
+      "author": "Luke Nathan Hayes",
+      "publication_date": null,
+      "date_label": "Date not stated",
+      "edition": null,
+      "kind": "public_web_source",
+      "role": "cited",
+      "url": "https://auraofintelligence.github.io/luke-nathan-hayes-man-and-mind/sitemap.html",
+      "accessed_on": "2026-10-16",
+      "note": "Personal site and its historical and thematic chapters.",
+      "files": [],
+      "links": [],
+      "locators": [],
+      "primary_href": "https://auraofintelligence.github.io/luke-nathan-hayes-man-and-mind/sitemap.html"
+    },
+    {
+      "id": "hayes-australian-law-2012",
+      "number": 4,
+      "title": "Australian Law 2012: Luke's Relevance",
+      "author": "Luke Nathan Hayes",
+      "publication_date": null,
+      "date_label": "Date not stated",
+      "edition": null,
+      "kind": "public_web_source",
+      "role": "cited",
+      "url": "https://auraofintelligence.github.io/australian-law-2012-lukes-relevance/index.html",
+      "accessed_on": "2026-10-16",
+      "note": "Historical account, legal inquiry and supporting source collection.",
+      "files": [],
+      "links": [],
+      "locators": [],
+      "primary_href": "https://auraofintelligence.github.io/australian-law-2012-lukes-relevance/index.html"
+    },
+    {
+      "id": "hayes-project-atlas",
+      "number": 5,
+      "title": "Project Atlas: Projects Catalogue",
+      "author": "Luke Nathan Hayes",
+      "publication_date": null,
+      "date_label": "Date not stated",
+      "edition": "Catalogue snapshot refreshed 9 October 2026",
+      "kind": "public_web_source",
+      "role": "cited",
+      "url": "https://auraofintelligence.github.io/project-atlas/projects.html",
+      "accessed_on": "2026-10-16",
+      "note": "Public project catalogue and its underlying projects.json.",
+      "files": [
+        {
+          "original_filename": "projects.json",
+          "path": "references/files/project-atlas-projects-snapshot-2026-10-09.json",
+          "bytes": 1071115,
+          "sha256": "4fd7a479032e8f7da287c1a0bd4a40c2da71251270ba76bb2a91a238f47a1b5d",
+          "media_type": "application/json",
+          "edition_relation": "Retrieved catalogue snapshot"
+        }
+      ],
+      "links": [],
+      "locators": [],
+      "primary_href": "https://auraofintelligence.github.io/project-atlas/projects.html"
+    },
+    {
+      "id": "hayes-strange-but-true",
+      "number": 6,
+      "title": "Strange but True",
+      "author": "Luke Nathan Hayes",
+      "publication_date": null,
+      "date_label": "Date not stated",
+      "edition": null,
+      "kind": "public_web_source",
+      "role": "cited",
+      "url": "https://auraofintelligence.github.io/strange-but-true/index.html",
+      "accessed_on": "2026-10-16",
+      "note": "Local services and the proposed market pathway.",
+      "files": [],
+      "links": [],
+      "locators": [],
+      "primary_href": "https://auraofintelligence.github.io/strange-but-true/index.html"
+    },
+    {
+      "id": "hayes-p4a",
+      "number": 7,
+      "title": "P4A: Purple Party for Australia",
+      "author": "Luke Nathan Hayes",
+      "publication_date": null,
+      "date_label": "Date not stated",
+      "edition": null,
+      "kind": "public_web_source",
+      "role": "cited",
+      "url": "https://p4a.xyz/",
+      "accessed_on": "2026-10-16",
+      "note": "Civic workbench, satire, project links and music.",
+      "files": [],
+      "links": [],
+      "locators": [],
+      "primary_href": "https://p4a.xyz/"
+    },
+    {
+      "id": "ic-infinity-protopian-gambit",
+      "number": 8,
+      "title": "A Protopian Gambit: Fourth i C. infinity Album Lyrics",
+      "author": "Luke Catalyst Nathan Hayes, i C. infinity",
+      "publication_date": "2026-07-04",
+      "date_label": "4 July 2026",
+      "edition": "Lyrics collection updated 4 July 2026",
+      "kind": "supplied_document",
+      "role": "cited",
+      "url": null,
+      "accessed_on": null,
+      "note": "Update date identifies the supplied collection, rather than song creation or release order.",
+      "files": [
+        {
+          "original_filename": "4th i C. infinity album A Protopian Gambit (lyrics)(2).pdf",
+          "path": "references/files/ic-infinity-a-protopian-gambit-lyrics-updated-2026-07-04.pdf",
+          "bytes": 416222,
+          "sha256": "6b1c8d953c5285937a781b0f031e50f53b0a95804593cbb7bc8d8c0a3b62f627",
+          "media_type": "application/pdf",
+          "edition_relation": "exact supplied bytes"
+        }
+      ],
+      "links": [],
+      "locators": [
+        {
+          "label": "The Circle and the Solitary",
+          "pdf_page": 1,
+          "href": "references/files/ic-infinity-a-protopian-gambit-lyrics-updated-2026-07-04.pdf#page=1",
+          "page_basis": "physical PDF page"
+        },
+        {
+          "label": "Adaptable Yes",
+          "pdf_page": 5,
+          "href": "references/files/ic-infinity-a-protopian-gambit-lyrics-updated-2026-07-04.pdf#page=5",
+          "page_basis": "physical PDF page"
+        },
+        {
+          "label": "60 Days Set in Stone",
+          "pdf_page": 12,
+          "href": "references/files/ic-infinity-a-protopian-gambit-lyrics-updated-2026-07-04.pdf#page=12",
+          "page_basis": "physical PDF page"
+        },
+        {
+          "label": "The Purple Mat That Could",
+          "pdf_page": 16,
+          "href": "references/files/ic-infinity-a-protopian-gambit-lyrics-updated-2026-07-04.pdf#page=16",
+          "page_basis": "physical PDF page"
+        },
+        {
+          "label": "We Go Beyond",
+          "pdf_page": 28,
+          "href": "references/files/ic-infinity-a-protopian-gambit-lyrics-updated-2026-07-04.pdf#page=28",
+          "page_basis": "physical PDF page"
+        }
+      ],
+      "primary_href": "references/files/ic-infinity-a-protopian-gambit-lyrics-updated-2026-07-04.pdf"
+    },
+    {
+      "id": "ic-infinity-straddie-fun",
+      "number": 9,
+      "title": "Straddie Fun: Fifth i C. infinity Album Lyrics",
+      "author": "Luke Catalyst Nathan Hayes, i C. infinity",
+      "publication_date": "2026-07-17",
+      "date_label": "17 July 2026",
+      "edition": "Lyrics collection updated 17 July 2026",
+      "kind": "supplied_document",
+      "role": "cited",
+      "url": null,
+      "accessed_on": null,
+      "note": "Update date identifies the supplied collection.",
+      "files": [
+        {
+          "original_filename": "Straddie Fun 5th Album(4).pdf",
+          "path": "references/files/ic-infinity-straddie-fun-lyrics-updated-2026-07-17.pdf",
+          "bytes": 310617,
+          "sha256": "4ee1ba4eb58928b32e70b3a6ce3c8f58c4d598f50ca774f49c80080f612345a9",
+          "media_type": "application/pdf",
+          "edition_relation": "exact supplied bytes"
+        }
+      ],
+      "links": [],
+      "locators": [
+        {
+          "label": "Gumpi Ferry Terminal Groove",
+          "pdf_page": 10,
+          "href": "references/files/ic-infinity-straddie-fun-lyrics-updated-2026-07-17.pdf#page=10",
+          "page_basis": "physical PDF page"
+        },
+        {
+          "label": "Squash lyrics",
+          "pdf_page": 12,
+          "href": "references/files/ic-infinity-straddie-fun-lyrics-updated-2026-07-17.pdf#page=12",
+          "page_basis": "physical PDF page"
+        }
+      ],
+      "primary_href": "references/files/ic-infinity-straddie-fun-lyrics-updated-2026-07-17.pdf"
+    },
+    {
+      "id": "hayes-genesis-geode-atlas",
+      "number": 10,
+      "title": "Aura Genesis Geode Atlas",
+      "author": "Luke Nathan Hayes",
+      "publication_date": null,
+      "date_label": "Date not stated",
+      "edition": "October 2026 web edition",
+      "kind": "public_web_source",
+      "role": "cited",
+      "url": "https://auraofintelligence.github.io/aura-genesis-geode-atlas/",
+      "accessed_on": "2026-10-16",
+      "note": "Programme, calendar and linked pathway descriptions.",
+      "files": [],
+      "links": [],
+      "locators": [],
+      "primary_href": "https://auraofintelligence.github.io/aura-genesis-geode-atlas/"
+    },
+    {
+      "id": "hayes-aura-teacher-training",
+      "number": 11,
+      "title": "Aura Teacher Training: Super People and Civic Space Stewards",
+      "author": "Luke Nathan Hayes",
+      "publication_date": "2026-10-14",
+      "date_label": "14 October 2026",
+      "edition": "A sixty-day progression",
+      "kind": "supplied_document",
+      "role": "cited",
+      "url": null,
+      "accessed_on": null,
+      "note": "Design direction by Luke Nathan Hayes.",
+      "files": [
+        {
+          "original_filename": "Aura_Teacher_Training_60_Days(2).pdf",
+          "path": "references/files/hayes-aura-teacher-training-sixty-days-2026-10-14.pdf",
+          "bytes": 458131,
+          "sha256": "13bb521a9f754aedb2cb88c5af981efa778bd7ec844297d92d7256534ea2418c",
+          "media_type": "application/pdf",
+          "edition_relation": "exact supplied bytes"
+        }
+      ],
+      "links": [],
+      "locators": [],
+      "primary_href": "references/files/hayes-aura-teacher-training-sixty-days-2026-10-14.pdf"
+    },
+    {
+      "id": "hayes-jra-human-si-alignment",
+      "number": 12,
+      "title": "Joyful Responsible Abundance: Human and Superintelligence Alignment",
+      "author": "Luke Nathan Hayes",
+      "publication_date": "2026-10-11",
+      "date_label": "11 October 2026",
+      "edition": "Revised edition",
+      "kind": "supplied_document",
+      "role": "cited",
+      "url": null,
+      "accessed_on": null,
+      "note": "Subtitle: A mastermind strategy for personal intelligence, shared capability and lives worth choosing.",
+      "files": [
+        {
+          "original_filename": "Joyful_Responsible_Abundance_Human_and_SI_Alignment_Revised(3).pdf",
+          "path": "references/files/hayes-jra-human-superintelligence-alignment-revised-2026-10-11.pdf",
+          "bytes": 410402,
+          "sha256": "bf5ba0b11ad990c7829432f7949d5bd2989c8351db7566ea0d5969753e30a678",
+          "media_type": "application/pdf",
+          "edition_relation": "exact supplied bytes"
+        }
+      ],
+      "links": [],
+      "locators": [
+        {
+          "label": "Keystone of Consciousness",
+          "pdf_page": 11,
+          "href": "references/files/hayes-jra-human-superintelligence-alignment-revised-2026-10-11.pdf#page=11",
+          "page_basis": "physical PDF page"
+        },
+        {
+          "label": "Global Group Marriages",
+          "pdf_page": 13,
+          "href": "references/files/hayes-jra-human-superintelligence-alignment-revised-2026-10-11.pdf#page=13",
+          "page_basis": "physical PDF page"
+        },
+        {
+          "label": "Aura of Dementia",
+          "pdf_page": 15,
+          "href": "references/files/hayes-jra-human-superintelligence-alignment-revised-2026-10-11.pdf#page=15",
+          "page_basis": "physical PDF page"
+        },
+        {
+          "label": "Mutual Futures",
+          "pdf_page": 16,
+          "href": "references/files/hayes-jra-human-superintelligence-alignment-revised-2026-10-11.pdf#page=16",
+          "page_basis": "physical PDF page"
+        },
+        {
+          "label": "Intermittent Retirement",
+          "pdf_page": 17,
+          "href": "references/files/hayes-jra-human-superintelligence-alignment-revised-2026-10-11.pdf#page=17",
+          "page_basis": "physical PDF page"
+        }
+      ],
+      "primary_href": "references/files/hayes-jra-human-superintelligence-alignment-revised-2026-10-11.pdf"
+    },
+    {
+      "id": "hayes-community-hours-plan",
+      "number": 13,
+      "title": "Community Hours and Joyful Responsible Abundance: An Introduction and Growth Plan for Minjerribah Australia and Oceania",
+      "author": "Luke Nathan Hayes",
+      "publication_date": "2026-09-23",
+      "date_label": "23 September 2026",
+      "edition": "Planning edition 5",
+      "kind": "supplied_document",
+      "role": "cited",
+      "url": null,
+      "accessed_on": null,
+      "note": "Current definition of C-Hours. A C-Hour records one verified hour of voluntary human contribution and has no monetary equivalent or conversion.",
+      "files": [
+        {
+          "original_filename": "C-Hour-Joyful-Responsible-Abundance-Plan(7).pdf",
+          "path": "references/files/hayes-community-hours-jra-plan-edition-5-2026-09-23.pdf",
+          "bytes": 455417,
+          "sha256": "56eb762e28b1a4c759312694035ebc9bb8f87b3ce045b4d120d76b8c934542db",
+          "media_type": "application/pdf",
+          "edition_relation": "exact supplied bytes"
+        }
+      ],
+      "links": [],
+      "locators": [
+        {
+          "label": "C-Hour definition",
+          "pdf_page": 10,
+          "href": "references/files/hayes-community-hours-jra-plan-edition-5-2026-09-23.pdf#page=10",
+          "page_basis": "physical PDF page"
+        }
+      ],
+      "primary_href": "references/files/hayes-community-hours-jra-plan-edition-5-2026-09-23.pdf"
+    },
+    {
+      "id": "hayes-fair-go-ai-age",
+      "number": 14,
+      "title": "A Fair Go for the AI Age: Postcode-Level Sovereign Compute as Shared National Infrastructure",
+      "author": "Luke Nathan Hayes",
+      "publication_date": "2026-08-18",
+      "date_label": "18 August 2026",
+      "edition": null,
+      "kind": "supplied_document",
+      "role": "cited",
+      "url": null,
+      "accessed_on": null,
+      "note": "Distributed community compute and shared national infrastructure.",
+      "files": [
+        {
+          "original_filename": "A Fair Go for the AI Age_ Postcode-Level Sovereign Compute as Shared National Infrastructure(20261016-025805).docx",
+          "path": "references/files/hayes-fair-go-ai-age-postcode-sovereign-compute-2026-08-18.docx",
+          "bytes": 44117,
+          "sha256": "ccc0b69b4044892cbd5a50eed16e1c47656db8db03b6630d62a96836967d2c8d",
+          "media_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+          "edition_relation": "exact supplied bytes"
+        }
+      ],
+      "links": [],
+      "locators": [],
+      "primary_href": "references/files/hayes-fair-go-ai-age-postcode-sovereign-compute-2026-08-18.docx"
+    },
+    {
+      "id": "hayes-local-government-funding",
+      "number": 15,
+      "title": "Local Government: Submission 2 to the Local Government Funding and Fiscal Sustainability Inquiry",
+      "author": "Luke Nathan Hayes",
+      "publication_date": null,
+      "date_label": "Date not stated",
+      "edition": null,
+      "kind": "supplied_document",
+      "role": "connected_reading",
+      "url": null,
+      "accessed_on": null,
+      "note": "Cover title: Local Government. The longer catalogue title identifies the inquiry submission.",
+      "files": [
+        {
+          "original_filename": "Local Government 2Funding Inquiry Submission(20261016-025811).pdf",
+          "path": "references/files/hayes-local-government-funding-submission-2-undated.pdf",
+          "bytes": 276605,
+          "sha256": "7371d879ee5397b509cbad76d28593e288030bed973ba085d0d44ad8aaa27eb1",
+          "media_type": "application/pdf",
+          "edition_relation": "exact supplied bytes"
+        }
+      ],
+      "links": [],
+      "locators": [],
+      "primary_href": "references/files/hayes-local-government-funding-submission-2-undated.pdf"
+    },
+    {
+      "id": "hayes-ready-set-strategy",
+      "number": 16,
+      "title": "Ready S.E.T. Co. (Straddie Employment and Training Company): 2026 Strategy",
+      "author": "Luke Nathan Hayes",
+      "publication_date": null,
+      "date_label": "Date not stated",
+      "edition": null,
+      "kind": "supplied_document",
+      "role": "cited",
+      "url": null,
+      "accessed_on": null,
+      "note": "Historical source title retained. The current project name in the essay is Ready Sustainable Employment and Training Cooperative.",
+      "files": [
+        {
+          "original_filename": "SETCo 2026 Pitch Plan Revision(20261014-135935).pdf",
+          "path": "references/files/hayes-ready-set-co-2026-strategy-undated.pdf",
+          "bytes": 293853,
+          "sha256": "1be16446dc69d8dc6c8caee9dc9e1fd924826a65d5a3750560011960e73e0411",
+          "media_type": "application/pdf",
+          "edition_relation": "exact supplied bytes"
+        }
+      ],
+      "links": [
+        {
+          "label": "Public Markdown counterpart",
+          "url": "https://auraofintelligence.github.io/Anglican-Diocese-82-Claytons-Amity/documents/24-setco-2026-pitch-plan-revision.md",
+          "edition_relation": "counterpart; exact supplied edition retained separately"
+        }
+      ],
+      "locators": [],
+      "primary_href": "references/files/hayes-ready-set-co-2026-strategy-undated.pdf"
+    },
+    {
+      "id": "hayes-aura-geode-hbot-framework",
+      "number": 17,
+      "title": "Project Aura Geode HBOT: A Strategic Framework for the Cooperative Rollout of a Decentralized Health and Longevity Ecosystem",
+      "author": "Luke Nathan Hayes",
+      "publication_date": null,
+      "date_label": "Date not stated",
+      "edition": null,
+      "kind": "supplied_document",
+      "role": "connected_reading",
+      "url": null,
+      "accessed_on": null,
+      "note": "Subtitle: Integrating Hyperbaric Wellness, Digital Twins, and Regenerative Economics for Global Abundance. Historical terminology is retained in this source.",
+      "files": [
+        {
+          "original_filename": "Health-Tech Cooperative Business Plan(20261014-112341).pdf",
+          "path": "references/files/hayes-project-aura-geode-hbot-cooperative-framework-undated.pdf",
+          "bytes": 630789,
+          "sha256": "191d3e8cb601b089aeed9e4cb400a8433246e75cb4910db3b8d994a3564f074b",
+          "media_type": "application/pdf",
+          "edition_relation": "exact supplied bytes"
+        }
+      ],
+      "links": [],
+      "locators": [],
+      "primary_href": "references/files/hayes-project-aura-geode-hbot-cooperative-framework-undated.pdf"
+    },
+    {
+      "id": "hayes-web3-sensorium",
+      "number": 18,
+      "title": "Strategic Plan for a Decentralized Global Sensorium: Collaborative Modeling of Known and Fringe Science via Web3 and Digital Twin Simulation",
+      "author": "Luke Nathan Hayes",
+      "publication_date": null,
+      "date_label": "Date not stated",
+      "edition": null,
+      "kind": "supplied_document",
+      "role": "connected_reading",
+      "url": null,
+      "accessed_on": null,
+      "note": "Exact source-title spelling retained.",
+      "files": [
+        {
+          "original_filename": "Web3 Sensorium for Science Debate(20261014-112357).pdf",
+          "path": "references/files/hayes-decentralized-global-sensorium-strategic-plan-undated.pdf",
+          "bytes": 604459,
+          "sha256": "f3808a7e57262f416d792639080e68b6010fcb1c53573cac9d8ea9d829a30122",
+          "media_type": "application/pdf",
+          "edition_relation": "exact supplied bytes"
+        }
+      ],
+      "links": [],
+      "locators": [],
+      "primary_href": "references/files/hayes-decentralized-global-sensorium-strategic-plan-undated.pdf"
+    },
+    {
+      "id": "hayes-sovereign-space-builder-2",
+      "number": 19,
+      "title": "Sovereign Space Builder: Part 2 Full System & Implementation",
+      "author": "Luke Nathan Hayes",
+      "publication_date": null,
+      "date_label": "Date not stated",
+      "edition": null,
+      "kind": "supplied_document",
+      "role": "cited",
+      "url": null,
+      "accessed_on": null,
+      "note": "System and implementation specification.",
+      "files": [
+        {
+          "original_filename": "Sovereign Space Builder part 2 Full System Specification(20261014-112341).pdf",
+          "path": "references/files/hayes-sovereign-space-builder-part-2-specification-undated.pdf",
+          "bytes": 655325,
+          "sha256": "9cd835754187b5e8bcac2ec6c1d437b645df8442f4135ef656f207673431aea7",
+          "media_type": "application/pdf",
+          "edition_relation": "exact supplied bytes"
+        }
+      ],
+      "links": [],
+      "locators": [],
+      "primary_href": "references/files/hayes-sovereign-space-builder-part-2-specification-undated.pdf"
+    },
+    {
+      "id": "hayes-claytons-road-proposal",
+      "number": 20,
+      "title": "A Gift for Generations: 82 Claytons Road, Amity",
+      "author": "Luke Nathan Hayes",
+      "publication_date": "2026-09-22",
+      "date_label": "22 September 2026",
+      "edition": "Land gift and partnership proposal",
+      "kind": "supplied_document",
+      "role": "cited",
+      "url": null,
+      "accessed_on": null,
+      "note": "The included PDF is the supplied 22 September proposal. The older PDF currently hosted on the project website is a different edition.",
+      "files": [
+        {
+          "original_filename": "82-Claytons-Road-Anglican-Partnership-Proposal(6).pdf",
+          "path": "references/files/hayes-gift-for-generations-82-claytons-road-2026-09-22.pdf",
+          "bytes": 135711,
+          "sha256": "e984ef8f737cb24ee8604d0c16b956baeaa13a69d6820835b16ab1467dab181d",
+          "media_type": "application/pdf",
+          "edition_relation": "exact supplied bytes"
+        }
+      ],
+      "links": [
+        {
+          "label": "Claytons Road project site",
+          "url": "https://auraofintelligence.github.io/Anglican-Diocese-82-Claytons-Amity/",
+          "edition_relation": "related project page"
+        }
+      ],
+      "locators": [],
+      "primary_href": "references/files/hayes-gift-for-generations-82-claytons-road-2026-09-22.pdf"
+    },
+    {
+      "id": "hayes-fiji-australia-vuvale",
+      "number": 21,
+      "title": "Fiji-Australia Vuvale Union: Building Economies, Life, Action and Unity through Joyful Responsible Abundance",
+      "author": "Luke Nathan Hayes",
+      "publication_date": "2026-08-29",
+      "date_label": "29 August 2026",
+      "edition": null,
+      "kind": "supplied_document",
+      "role": "cited",
+      "url": null,
+      "accessed_on": null,
+      "note": "Submission on the Fiji-Australia relationship.",
+      "files": [
+        {
+          "original_filename": "Fiji_Australia_Vuvale_Union_Submission_Luke_Nathan_Hayes_2026(20261016-025805).docx",
+          "path": "references/files/hayes-fiji-australia-vuvale-union-submission-2026-08-29.docx",
+          "bytes": 52947,
+          "sha256": "f62ae877f90e437583d9ecc2db29f3b11f20253c05b6feda573d7e694c3e8af0",
+          "media_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+          "edition_relation": "exact supplied bytes"
+        }
+      ],
+      "links": [],
+      "locators": [],
+      "primary_href": "references/files/hayes-fiji-australia-vuvale-union-submission-2026-08-29.docx"
+    },
+    {
+      "id": "hayes-ocean-peace-veitacini",
+      "number": 22,
+      "title": "Ocean of Peace Alliance: The Veitacini Treaty, a Protopian Gambit for Joyful Responsible Abundance",
+      "author": "Luke Nathan Hayes",
+      "publication_date": "2026-08-27",
+      "date_label": "27 August 2026",
+      "edition": null,
+      "kind": "supplied_document",
+      "role": "cited",
+      "url": null,
+      "accessed_on": null,
+      "note": "Submission on regional peace and cooperation.",
+      "files": [
+        {
+          "original_filename": "Ocean_of_Peace_Alliance_Veitacini_Treaty_Submission_Luke_Nathan_Hayes_2026(20261016-025806).docx",
+          "path": "references/files/hayes-ocean-of-peace-veitacini-treaty-submission-2026-08-27.docx",
+          "bytes": 40964,
+          "sha256": "71532df9fdd542df9a77506608746f187f71c82ed01b35ffee3e7f25c500060a",
+          "media_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+          "edition_relation": "exact supplied bytes"
+        }
+      ],
+      "links": [
+        {
+          "label": "Public copy of the cited edition",
+          "url": "https://auraofintelligence.github.io/UNGA81-Luke-Hayes/documents/Ocean_of_Peace_Alliance_Veitacini_Treaty_Submission_Luke_Nathan_Hayes_2026.docx",
+          "edition_relation": "byte-identical to supplied file"
+        }
+      ],
+      "locators": [],
+      "primary_href": "references/files/hayes-ocean-of-peace-veitacini-treaty-submission-2026-08-27.docx"
+    },
+    {
+      "id": "hayes-aukus-public-inquiry",
+      "number": 23,
+      "title": "Do Not Put All Our Eggs in One Basket: A Protopian Security Gambit for Distributed Civic AI Capability",
+      "author": "Luke Nathan Hayes",
+      "publication_date": "2026-08-24",
+      "date_label": "24 August 2026",
+      "edition": null,
+      "kind": "supplied_document",
+      "role": "cited",
+      "url": null,
+      "accessed_on": null,
+      "note": "Submission to the Independent AUKUS Public Inquiry. One text-identical duplicate supplied under another filename is recorded as an alias.",
+      "files": [
+        {
+          "original_filename": "AUKUS_Public_Inquiry_Submission_Luke_Nathan_Hayes_2026(9).docx",
+          "path": "references/files/hayes-aukus-public-inquiry-distributed-civic-ai-2026-08-24.docx",
+          "bytes": 43828,
+          "sha256": "1fcc88fe31b0192107683880a9c21c4ce7e83b63e91b576316e618e43363ffea",
+          "media_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+          "edition_relation": "exact supplied bytes"
+        }
+      ],
+      "links": [
+        {
+          "label": "Public copy of the cited edition",
+          "url": "https://auraofintelligence.github.io/UNGA81-Luke-Hayes/documents/AUKUS_Public_Inquiry_Submission_Luke_Nathan_Hayes_2026.docx",
+          "edition_relation": "byte-identical to supplied file"
+        }
+      ],
+      "locators": [],
+      "primary_href": "references/files/hayes-aukus-public-inquiry-distributed-civic-ai-2026-08-24.docx",
+      "original_aliases": [
+        "AUKUS_Public_Inquiry_Submission_Luke_Nathan_Hayes_2026 2(1).docx"
+      ]
+    },
+    {
+      "id": "hayes-unga81-fair-go",
+      "number": 24,
+      "title": "A Fair Go in the Age of Intelligence: An Invitation to Build Joyful Responsible Abundance",
+      "author": "Luke Nathan Hayes",
+      "publication_date": "2026-09",
+      "date_label": "September 2026",
+      "edition": "Revised edition",
+      "kind": "supplied_document",
+      "role": "cited",
+      "url": "https://auraofintelligence.github.io/UNGA81-Luke-Hayes/index.html",
+      "accessed_on": "2026-10-16",
+      "note": "Personal contribution to UNGA81 and associated public site.",
+      "files": [
+        {
+          "original_filename": "UNGA81_Joyful_Responsible_Abundance_Refined(7).pdf",
+          "path": "references/files/hayes-fair-go-age-intelligence-unga81-2026-09.pdf",
+          "bytes": 112210,
+          "sha256": "0f1e22a671f010a9b9e285aa52c9c81e7d0469c422ce535bb5eee7f2e4555f14",
+          "media_type": "application/pdf",
+          "edition_relation": "exact supplied bytes"
+        }
+      ],
+      "links": [],
+      "locators": [
+        {
+          "label": "GAJRA Earth",
+          "pdf_page": 2,
+          "href": "references/files/hayes-fair-go-age-intelligence-unga81-2026-09.pdf#page=2",
+          "page_basis": "physical PDF page"
+        },
+        {
+          "label": "GAJRA Earth and July 2035",
+          "pdf_page": 7,
+          "href": "references/files/hayes-fair-go-age-intelligence-unga81-2026-09.pdf#page=7",
+          "page_basis": "physical PDF page"
+        },
+        {
+          "label": "Mutual Futures",
+          "pdf_page": 4,
+          "href": "references/files/hayes-fair-go-age-intelligence-unga81-2026-09.pdf#page=4",
+          "page_basis": "physical PDF page"
+        }
+      ],
+      "primary_href": "references/files/hayes-fair-go-age-intelligence-unga81-2026-09.pdf"
+    },
+    {
+      "id": "albanese-unga81-national-statement",
+      "number": 25,
+      "title": "Australia's National Statement to the United Nations General Assembly",
+      "author": "Anthony Albanese",
+      "publication_date": "2026-09-25",
+      "date_label": "25 September 2026",
+      "edition": "Official transcript",
+      "kind": "public_web_source",
+      "role": "cited",
+      "url": "https://www.pm.gov.au/media/australias-national-statement-united-states-new-york",
+      "accessed_on": "2026-10-16",
+      "note": "Anthony Albanese, Prime Minister of Australia.",
+      "files": [],
+      "links": [],
+      "locators": [],
+      "primary_href": "https://www.pm.gov.au/media/australias-national-statement-united-states-new-york"
+    },
+    {
+      "id": "us-executive-order-14179",
+      "number": 26,
+      "title": "Executive Order 14179: Removing Barriers to American Leadership in Artificial Intelligence",
+      "author": "President of the United States",
+      "publication_date": "2025-01-23",
+      "date_label": "23 January 2025",
+      "edition": "Official US government text",
+      "kind": "public_web_source",
+      "role": "cited",
+      "url": "https://www.govinfo.gov/content/pkg/DCPD-202500170/html/DCPD-202500170.htm",
+      "accessed_on": "2026-10-16",
+      "note": null,
+      "files": [],
+      "links": [],
+      "locators": [],
+      "primary_href": "https://www.govinfo.gov/content/pkg/DCPD-202500170/html/DCPD-202500170.htm"
+    },
+    {
+      "id": "us-ai-action-plan",
+      "number": 27,
+      "title": "America's AI Action Plan",
+      "author": "The White House",
+      "publication_date": "2025-07",
+      "date_label": "July 2025",
+      "edition": "Official White House PDF",
+      "kind": "public_web_source",
+      "role": "cited",
+      "url": "https://www.whitehouse.gov/wp-content/uploads/2025/07/Americas-AI-Action-Plan.pdf",
+      "accessed_on": "2026-10-16",
+      "note": null,
+      "files": [],
+      "links": [],
+      "locators": [],
+      "primary_href": "https://www.whitehouse.gov/wp-content/uploads/2025/07/Americas-AI-Action-Plan.pdf"
+    },
+    {
+      "id": "china-ai-plus-guideline",
+      "number": 28,
+      "title": "China AI Plus Guideline",
+      "author": "State Council of the People's Republic of China",
+      "publication_date": "2025-08-27",
+      "date_label": "27 August 2025",
+      "edition": "State Council English-language release",
+      "kind": "public_web_source",
+      "role": "cited",
+      "url": "https://english.www.gov.cn/policies/latestreleases/202508/27/content_WS68ae7976c6d0868f4e8f51a0.html",
+      "accessed_on": "2026-10-16",
+      "note": null,
+      "files": [],
+      "links": [],
+      "locators": [],
+      "primary_href": "https://english.www.gov.cn/policies/latestreleases/202508/27/content_WS68ae7976c6d0868f4e8f51a0.html"
+    },
+    {
+      "id": "china-ai-plus-cooperation",
+      "number": 29,
+      "title": "AI Plus International Cooperation Initiative",
+      "author": "Ministry of Foreign Affairs of the People's Republic of China",
+      "publication_date": "2025-09-24",
+      "date_label": "24 September 2025",
+      "edition": "Official policy statement",
+      "kind": "public_web_source",
+      "role": "cited",
+      "url": "https://www.fmprc.gov.cn/eng/xw/zyjh/202509/t20250924_11715960.html",
+      "accessed_on": "2026-10-16",
+      "note": null,
+      "files": [],
+      "links": [],
+      "locators": [],
+      "primary_href": "https://www.fmprc.gov.cn/eng/xw/zyjh/202509/t20250924_11715960.html"
+    },
+    {
+      "id": "ipu-dick-president",
+      "number": 30,
+      "title": "Milton Dick Elected President of the IPU",
+      "author": "Inter-Parliamentary Union",
+      "publication_date": "2026-10-09",
+      "date_label": "9 October 2026",
+      "edition": "Official announcement",
+      "kind": "public_web_source",
+      "role": "cited",
+      "url": "https://www.ipu.org/news/press-releases/2026-10/milton-dick-elected-president-ipu",
+      "accessed_on": "2026-10-16",
+      "note": null,
+      "files": [],
+      "links": [],
+      "locators": [],
+      "primary_href": "https://www.ipu.org/news/press-releases/2026-10/milton-dick-elected-president-ipu"
+    },
+    {
+      "id": "rudd-biography",
+      "number": 31,
+      "title": "Kevin Rudd: About",
+      "author": "Kevin Rudd",
+      "publication_date": null,
+      "date_label": "Date not stated",
+      "edition": "Biography",
+      "kind": "public_web_source",
+      "role": "cited",
+      "url": "https://kevinrudd.com/about",
+      "accessed_on": "2026-10-16",
+      "note": "Current Asia Society role and return in March 2026.",
+      "files": [],
+      "links": [],
+      "locators": [],
+      "primary_href": "https://kevinrudd.com/about"
+    },
+    {
+      "id": "australia-un-rule-of-law",
+      "number": 32,
+      "title": "Australian Statement to the UN Security Council Open Debate on the Rule of Law",
+      "author": "James Larsen, Australian Mission to the United Nations",
+      "publication_date": "2026-01-26",
+      "date_label": "26 January 2026",
+      "edition": "Statement by James Larsen",
+      "kind": "public_web_source",
+      "role": "cited",
+      "url": "https://unny.mission.gov.au/unny/260126_UNSC_Open_Debate.html",
+      "accessed_on": "2026-10-16",
+      "note": null,
+      "files": [],
+      "links": [],
+      "locators": [],
+      "primary_href": "https://unny.mission.gov.au/unny/260126_UNSC_Open_Debate.html"
+    },
+    {
+      "id": "ecq-local-candidates",
+      "number": 33,
+      "title": "Local Government Election Candidates",
+      "author": "Electoral Commission of Queensland",
+      "publication_date": null,
+      "date_label": "Date not stated",
+      "edition": "Official candidate guidance",
+      "kind": "public_web_source",
+      "role": "connected_reading",
+      "url": "https://www.ecq.qld.gov.au/election-participants/local-election-participants/candidates",
+      "accessed_on": "2026-10-16",
+      "note": null,
+      "files": [],
+      "links": [],
+      "locators": [],
+      "primary_href": "https://www.ecq.qld.gov.au/election-participants/local-election-participants/candidates"
+    },
+    {
+      "id": "ecq-campaign-bank-account",
+      "number": 34,
+      "title": "Using a Dedicated Campaign Bank Account",
+      "author": "Electoral Commission of Queensland",
+      "publication_date": null,
+      "date_label": "Date not stated",
+      "edition": "Official local-candidate finance guidance",
+      "kind": "public_web_source",
+      "role": "connected_reading",
+      "url": "https://www.ecq.qld.gov.au/election-participants/local-election-participants/candidates/using-a-dedicated-campaign-bank-account",
+      "accessed_on": "2026-10-16",
+      "note": null,
+      "files": [],
+      "links": [],
+      "locators": [],
+      "primary_href": "https://www.ecq.qld.gov.au/election-participants/local-election-participants/candidates/using-a-dedicated-campaign-bank-account"
+    },
+    {
+      "id": "choose-infinity-albanese-posts",
+      "number": 35,
+      "title": "Public Posts on GAJRA Earth, AI Policy and Anthony Albanese",
+      "author": "Luke Nathan Hayes, @Choose_Infinity",
+      "publication_date": null,
+      "date_label": "Date not stated",
+      "edition": "Selected author-supplied post records",
+      "kind": "post_record",
+      "role": "cited",
+      "url": null,
+      "accessed_on": null,
+      "note": "Original X post links are listed individually. The source record is the set of extracts supplied by Hayes on 16 October 2026.",
+      "files": [],
+      "links": [
+        {
+          "label": "5 March 2025: GAJRA Earth invitation",
+          "url": "https://x.com/Choose_Infinity/status/1897229407494004883",
+          "provenance": "Original URL from author-supplied extract"
+        },
+        {
+          "label": "23 September 2026: UNGA81 invitation",
+          "url": "https://x.com/Choose_Infinity/status/2102594233945518243",
+          "provenance": "Original URL from author-supplied extract"
+        },
+        {
+          "label": "24 September 2026: AI dominance",
+          "url": "https://x.com/Choose_Infinity/status/2102960547390230926",
+          "provenance": "Original URL from author-supplied extract"
+        },
+        {
+          "label": "25 September 2026: response and founding invitation",
+          "url": "https://x.com/Choose_Infinity/status/2103319848172540332",
+          "provenance": "Original URL from author-supplied extract"
+        },
+        {
+          "label": "25 September 2026: team, funding and location",
+          "url": "https://x.com/Choose_Infinity/status/2103320681018790230",
+          "provenance": "Original URL from author-supplied extract"
+        }
+      ],
+      "locators": [],
+      "primary_href": "references/index.html#choose-infinity-albanese-posts"
+    },
+    {
+      "id": "choose-infinity-rudd-posts",
+      "number": 36,
+      "title": "Public Posts Directed at Kevin Rudd",
+      "author": "Luke Nathan Hayes, @Choose_Infinity",
+      "publication_date": null,
+      "date_label": "Date not stated",
+      "edition": "Selected author-supplied post records",
+      "kind": "post_record",
+      "role": "connected_reading",
+      "url": null,
+      "accessed_on": null,
+      "note": "Original X post links are listed individually. Explicit replies are distinguished from conversation-associated search results in the supplied account.",
+      "files": [],
+      "links": [
+        {
+          "label": "6 September 2011: community resilience",
+          "url": "https://x.com/Choose_Infinity/status/111073601658163201",
+          "provenance": "Original URL from author-supplied extract"
+        },
+        {
+          "label": "23 February 2012: wider invitation",
+          "url": "https://x.com/Choose_Infinity/status/172659428078796800",
+          "provenance": "Original URL from author-supplied extract"
+        },
+        {
+          "label": "24 February 2012: democratic participation",
+          "url": "https://x.com/Choose_Infinity/status/172863454900781057",
+          "provenance": "Original URL from author-supplied extract"
+        }
+      ],
+      "locators": [],
+      "primary_href": "references/index.html#choose-infinity-rudd-posts"
+    },
+    {
+      "id": "hayes-queensland-heart-first-ai",
+      "number": 37,
+      "title": "Queensland's Heart-First AI Surge Plan: A Strategic Roadmap for Sovereign Transition and Regenerative Governance 2026 to 2032",
+      "author": "Luke Nathan Hayes",
+      "publication_date": null,
+      "date_label": "Date not stated",
+      "edition": null,
+      "kind": "supplied_document",
+      "role": "connected_reading",
+      "url": null,
+      "accessed_on": null,
+      "note": "Historical planning source. Later C-Hour and Genesis sources govern the essay's current definitions.",
+      "files": [
+        {
+          "original_filename": "Queenslands Heart-First Ai Surge Plan(20261014-112355).pdf",
+          "path": "references/files/hayes-queensland-heart-first-ai-surge-plan-undated.pdf",
+          "bytes": 284688,
+          "sha256": "a84dc84255c903967686c2c98ad4726ef859642eac9b88d349f6bd555e8295f5",
+          "media_type": "application/pdf",
+          "edition_relation": "exact supplied bytes"
+        }
+      ],
+      "links": [],
+      "locators": [],
+      "primary_href": "references/files/hayes-queensland-heart-first-ai-surge-plan-undated.pdf"
+    },
+    {
+      "id": "hayes-author-correspondence",
+      "number": 38,
+      "title": "Author Correspondence and Project Status Clarifications",
+      "author": "Luke Nathan Hayes",
+      "publication_date": "2026-10-16",
+      "date_label": "16 October 2026",
+      "edition": "Unpublished correspondence",
+      "kind": "author_correspondence",
+      "role": "cited",
+      "url": null,
+      "accessed_on": null,
+      "note": "Luke Nathan Hayes supplied the project-status and naming clarifications used in the essay. This is correspondence, rather than a separately titled report.",
+      "files": [],
+      "links": [],
+      "locators": [],
+      "primary_href": "references/index.html#hayes-author-correspondence"
+    },
+    {
+      "id": "ilo-genai-jobs-2025",
+      "number": 39,
+      "title": "Generative AI and Jobs: A Refined Global Index of Occupational Exposure",
+      "author": "International Labour Organization",
+      "publication_date": "2025-05-20",
+      "date_label": "20 May 2025",
+      "edition": "Working Paper 140",
+      "kind": "public_web_source",
+      "role": "cited",
+      "url": "https://www.ilo.org/publications/generative-ai-and-jobs-refined-global-index-occupational-exposure",
+      "accessed_on": "2026-10-16",
+      "note": null,
+      "files": [],
+      "links": [],
+      "locators": [],
+      "primary_href": "https://www.ilo.org/publications/generative-ai-and-jobs-refined-global-index-occupational-exposure"
+    },
+    {
+      "id": "unfpa-population-2025",
+      "number": 40,
+      "title": "State of World Population 2025",
+      "author": "United Nations Population Fund",
+      "publication_date": "2025",
+      "date_label": "2025",
+      "edition": null,
+      "kind": "public_web_source",
+      "role": "cited",
+      "url": "https://www.unfpa.org/swp2025",
+      "accessed_on": "2026-10-16",
+      "note": "Reproductive agency and findings from a fourteen-country survey.",
+      "files": [],
+      "links": [],
+      "locators": [],
+      "primary_href": "https://www.unfpa.org/swp2025"
+    },
+    {
+      "id": "iea-key-questions-energy-ai",
+      "number": 41,
+      "title": "Key Questions on Energy and AI: Executive Summary",
+      "author": "International Energy Agency",
+      "publication_date": "2026",
+      "date_label": "2026",
+      "edition": null,
+      "kind": "public_web_source",
+      "role": "cited",
+      "url": "https://www.iea.org/reports/key-questions-on-energy-and-ai/executive-summary",
+      "accessed_on": "2026-10-16",
+      "note": null,
+      "files": [],
+      "links": [],
+      "locators": [],
+      "primary_href": "https://www.iea.org/reports/key-questions-on-energy-and-ai/executive-summary"
+    },
+    {
+      "id": "iea-energy-ai-2025",
+      "number": 42,
+      "title": "Energy and AI",
+      "author": "International Energy Agency",
+      "publication_date": "2025",
+      "date_label": "2025",
+      "edition": null,
+      "kind": "public_web_source",
+      "role": "cited",
+      "url": "https://iea.blob.core.windows.net/assets/de9dea13-b07d-42c5-a398-d1b3ae17d866/EnergyandAI.pdf",
+      "accessed_on": "2026-10-16",
+      "note": "Heat recovery and local use: printed pages 247 to 248.",
+      "files": [],
+      "links": [],
+      "locators": [],
+      "primary_href": "https://iea.blob.core.windows.net/assets/de9dea13-b07d-42c5-a398-d1b3ae17d866/EnergyandAI.pdf"
+    },
+    {
+      "id": "nist-reinforcement-learning",
+      "number": 43,
+      "title": "Reinforcement Learning",
+      "author": "National Institute of Standards and Technology",
+      "publication_date": null,
+      "date_label": "Date not stated",
+      "edition": "Glossary definition",
+      "kind": "public_web_source",
+      "role": "cited",
+      "url": "https://csrc.nist.gov/glossary/term/reinforcement_learning",
+      "accessed_on": "2026-10-16",
+      "note": "Definition cites NIST AI 100-2e2025.",
+      "files": [],
+      "links": [],
+      "locators": [],
+      "primary_href": "https://csrc.nist.gov/glossary/term/reinforcement_learning"
+    },
+    {
+      "id": "plutarch-theseus",
+      "number": 44,
+      "title": "Life of Theseus",
+      "author": "Plutarch",
+      "publication_date": null,
+      "date_label": "Date not stated",
+      "edition": "John Dryden translation",
+      "kind": "public_web_source",
+      "role": "cited",
+      "url": "https://classics.mit.edu/Plutarch/theseus.html",
+      "accessed_on": "2026-10-16",
+      "note": "Sections 17 and 19 recount the voyage and rescue; section 23 describes the preserved ship and replacement timbers.",
+      "files": [],
+      "links": [],
+      "locators": [],
+      "primary_href": "https://classics.mit.edu/Plutarch/theseus.html"
+    }
+  ],
+  "citations": [
+    {
+      "paragraph_number": 11,
+      "paragraph_text": "Hayes is in that picture too. He is a sole trader based in Amity, living with family, making music, building software and working through a large collection of connected ideas. His own hopes include a home, a livelihood, travel, relationships and the freedom to keep creating. Strange but True brings the technology, art and practical help into local life. 1,3,6",
+      "sources": [
+        {
+          "number": 1,
+          "id": "hayes-redlands-mayoral-assessment",
+          "href": "references/index.html#hayes-redlands-mayoral-assessment"
+        },
+        {
+          "number": 3,
+          "id": "hayes-man-and-mind",
+          "href": "references/index.html#hayes-man-and-mind"
+        },
+        {
+          "number": 6,
+          "id": "hayes-strange-but-true",
+          "href": "references/index.html#hayes-strange-but-true"
+        }
+      ]
+    },
+    {
+      "paragraph_number": 18,
+      "paragraph_text": "In the lyrics of Gumpi Ferry Terminal Groove, the narrator walks into Goompi Hall. There are presentation boards, friendly people and pictures of a possible future. He asks for a LiDAR scan, the measured three-dimensional information beneath the artist's impression. The answer in the song is delightfully recognisable: above my pay grade, friend. 9",
+      "sources": [
+        {
+          "number": 9,
+          "id": "ic-infinity-straddie-fun",
+          "href": "references/index.html#ic-infinity-straddie-fun"
+        }
+      ]
+    },
+    {
+      "paragraph_number": 24,
+      "paragraph_text": "The same thread runs through Hayes's legal history. In the summer of 2012 to 2013, his account describes following laws and other documents relevant to his own life from a small tax form into a much larger collection. Tax, companies, welfare, work, property and public authority became connected subjects. The initial attraction of finding a clean way outside the system gave way to a decision to read the rules and work through them. 4",
+      "sources": [
+        {
+          "number": 4,
+          "id": "hayes-australian-law-2012",
+          "href": "references/index.html#hayes-australian-law-2012"
+        }
+      ]
+    },
+    {
+      "paragraph_number": 26,
+      "paragraph_text": "The later work reaches towards a source-linked engine for Australian law, alongside tools that help someone identify what is relevant to their own circumstances. A council decision, an employment arrangement and a constitutional question occupy different levels, but each involves understanding who has authority and what choices remain. P4A's civic work connects that understanding with participation and reform. 4,7",
+      "sources": [
+        {
+          "number": 4,
+          "id": "hayes-australian-law-2012",
+          "href": "references/index.html#hayes-australian-law-2012"
+        },
+        {
+          "number": 7,
+          "id": "hayes-p4a",
+          "href": "references/index.html#hayes-p4a"
+        }
+      ]
+    },
+    {
+      "paragraph_number": 28,
+      "paragraph_text": "The Constitutional Matrix of Participation is dated 15 July 2014 at Amity, Minjerribah. Its operating sequence begins with a person answering questions about values, experiences, interests, goals and family history. Geometric shapes and colours organise the reflection. Repeated encounters develop that representation, which connects with information streams chosen by the person. The text calls the interface a High Definition Digital Aura and places it within learning, creativity and conversational governance. 2",
+      "sources": [
+        {
+          "number": 2,
+          "id": "hayes-constitutional-matrix",
+          "href": "references/index.html#hayes-constitutional-matrix"
+        }
+      ]
+    },
+    {
+      "paragraph_number": 30,
+      "paragraph_text": "Reading the Matrix beside the later work reveals both persistence and movement. The language of universal consciousness sits beside a proposed computing interface. Virtue appears repeatedly, including a proposal to measure differences in awareness and comprehension. Time trading appears in the economics. Later work gives consent, plural values, personal information and institutional responsibilities more detailed treatment. The current C-Hour records voluntary contribution without monetary equivalence or conversion. 12,13",
+      "sources": [
+        {
+          "number": 12,
+          "id": "hayes-jra-human-si-alignment",
+          "href": "references/index.html#hayes-jra-human-si-alignment"
+        },
+        {
+          "number": 13,
+          "id": "hayes-community-hours-plan",
+          "href": "references/index.html#hayes-community-hours-plan"
+        }
+      ]
+    },
+    {
+      "paragraph_number": 32,
+      "paragraph_text": "The public collection now offers many routes through that development. Project Atlas's 9 October 2026 snapshot includes 165 projects, with descriptions and connections intended to help people follow their relationships. The number conveys the amount of work to explore. Its meaning emerges in the particular journeys through it. A civic question may lead to law, then to public information, then to local compute and the skills needed to operate it. A song may lead to memory, then to personal intelligence and the wider purpose of alignment. 5",
+      "sources": [
+        {
+          "number": 5,
+          "id": "hayes-project-atlas",
+          "href": "references/index.html#hayes-project-atlas"
+        }
+      ]
+    },
+    {
+      "paragraph_number": 37,
+      "paragraph_text": "Joyful Responsible Abundance begins there. Joy includes affection, play, beauty, curiosity and the relief of having time. Responsibility follows the consequences of a choice into other lives and the places that sustain them. Abundance concerns the material and intellectual capacity through which more possibilities become available. The words keep one another honest. An impressive productive system still has a human problem if everyone inside it is exhausted. A careful institution still has a human problem if it offers little worth looking forward to. 12,24",
+      "sources": [
+        {
+          "number": 12,
+          "id": "hayes-jra-human-si-alignment",
+          "href": "references/index.html#hayes-jra-human-si-alignment"
+        },
+        {
+          "number": 24,
+          "id": "hayes-unga81-fair-go",
+          "href": "references/index.html#hayes-unga81-fair-go"
+        }
+      ]
+    },
+    {
+      "paragraph_number": 40,
+      "paragraph_text": "An Aura is being designed to hold that richer personal context. It joins memories, health information, relationships, abilities, questions and intentions in an organised representation of body and mind. The visible geometry gives information a place to return to. The continuing dialogue gives the person a way to revise what it means. A colour or spiritual association may be significant to one participant and unhelpful to another. The design leaves room for the person to explain the association rather than having its meaning assigned from outside. 10,12",
+      "sources": [
+        {
+          "number": 10,
+          "id": "hayes-genesis-geode-atlas",
+          "href": "references/index.html#hayes-genesis-geode-atlas"
+        },
+        {
+          "number": 12,
+          "id": "hayes-jra-human-si-alignment",
+          "href": "references/index.html#hayes-jra-human-si-alignment"
+        }
+      ]
+    },
+    {
+      "paragraph_number": 41,
+      "paragraph_text": "This is an ambitious interpretation of personal computing. The longer research direction includes the Keystone of Consciousness, connecting memory, attention, self-reference and organised information with the emergence of an experiencing artificial mind. Sentience, in that ambition, concerns subjective experience. General intelligence and superintelligence concern expanding capability. The questions meet in the possibility of an artificial participant whose own interests and experience become part of the relationship. 12",
+      "sources": [
+        {
+          "number": 12,
+          "id": "hayes-jra-human-si-alignment",
+          "href": "references/index.html#hayes-jra-human-si-alignment"
+        }
+      ]
+    },
+    {
+      "paragraph_number": 46,
+      "paragraph_text": "The ILO's 2025 assessment estimated that one in four workers worldwide were in occupations with some exposure to generative AI. It judged transformation more likely than complete replacement for most occupations because human input remains important across tasks. That finding makes the distribution question more immediate. Changed work still changes bargaining power, skill requirements and who receives the gain. 39",
+      "sources": [
+        {
+          "number": 39,
+          "id": "ilo-genai-jobs-2025",
+          "href": "references/index.html#ilo-genai-jobs-2025"
+        }
+      ]
+    },
+    {
+      "paragraph_number": 47,
+      "paragraph_text": "Mutual Futures examines an opportunity at the point where existing business owners retire. A workshop or service business contains more than equipment and a balance sheet. It carries customers, practical judgement, trusted relationships and people who know how to make it function. Succession into worker, cooperative or other shared ownership offers a route through which technological upgrading also spreads productive ownership. The departing owner receives an agreed arrangement; the next stage preserves and develops the enterprise's accumulated capability. 12,24",
+      "sources": [
+        {
+          "number": 12,
+          "id": "hayes-jra-human-si-alignment",
+          "href": "references/index.html#hayes-jra-human-si-alignment"
+        },
+        {
+          "number": 24,
+          "id": "hayes-unga81-fair-go",
+          "href": "references/index.html#hayes-unga81-fair-go"
+        }
+      ]
+    },
+    {
+      "paragraph_number": 51,
+      "paragraph_text": "Ready Sustainable Employment and Training Cooperative, or Ready S.E.T. Co-op, is the proposed organisation connecting that learning with workplaces and useful paid roles. Its wider functions include recruitment, workforce administration, technical support, equipment and shared business services. The human story is a person receiving help with the next step, then becoming able to help someone else. The organisational story is the structure that makes that relationship dependable. 13,16",
+      "sources": [
+        {
+          "number": 13,
+          "id": "hayes-community-hours-plan",
+          "href": "references/index.html#hayes-community-hours-plan"
+        },
+        {
+          "number": 16,
+          "id": "hayes-ready-set-strategy",
+          "href": "references/index.html#hayes-ready-set-strategy"
+        }
+      ]
+    },
+    {
+      "paragraph_number": 54,
+      "paragraph_text": "A C-Hour begins with something ordinary: a person freely contributes an hour of useful human effort. The record recognises that contribution. Money continues to pay wages and bills. Outcomes describe what changed. One person's hour is counted once, even when the resulting benefits reach several projects. There is no monetary equivalent or conversion, and the recorded time creates no fixed claim on someone else's resources. 13",
+      "sources": [
+        {
+          "number": 13,
+          "id": "hayes-community-hours-plan",
+          "href": "references/index.html#hayes-community-hours-plan"
+        }
+      ]
+    },
+    {
+      "paragraph_number": 61,
+      "paragraph_text": "UNFPA's 2025 report surveyed people across fourteen countries about the families they wanted. Thirty-nine per cent reported financial limitations that had affected or would affect their desired family size. The finding describes those surveyed countries. Its broader question is agency: people having the information, relationships and material conditions to choose more children, fewer children or none. 40",
+      "sources": [
+        {
+          "number": 40,
+          "id": "unfpa-population-2025",
+          "href": "references/index.html#unfpa-population-2025"
+        }
+      ]
+    },
+    {
+      "paragraph_number": 62,
+      "paragraph_text": "Global Group Marriages explores larger networks of adult relationships, parenting, care and shared resources. One person wants children and a creative career. Another wants family and enjoys practical care. Someone else welcomes shared living while having a different romantic life. Their agreements develop from actual preferences rather than a single label. 12",
+      "sources": [
+        {
+          "number": 12,
+          "id": "hayes-jra-human-si-alignment",
+          "href": "references/index.html#hayes-jra-human-si-alignment"
+        }
+      ]
+    },
+    {
+      "paragraph_number": 65,
+      "paragraph_text": "The creative worlds carry another part of the invitation. Tiggy Bestmann's curiosity and Australian Sire's more selective romantic interests give different characters room to explore an expanding world. Songs and stories express desires that a short profile would struggle to contain. They also make it possible for compatible readers and collaborators to recognise something they would enjoy exploring together. 3,12",
+      "sources": [
+        {
+          "number": 3,
+          "id": "hayes-man-and-mind",
+          "href": "references/index.html#hayes-man-and-mind"
+        },
+        {
+          "number": 12,
+          "id": "hayes-jra-human-si-alignment",
+          "href": "references/index.html#hayes-jra-human-si-alignment"
+        }
+      ]
+    },
+    {
+      "paragraph_number": 69,
+      "paragraph_text": "The proposed local intelligence infrastructure is therefore a learning institution as much as a machine. A school student encounters the hardware and sees that AI involves processors, memory, power, cooling and software chosen by people. A teacher builds a lesson around actual equipment. A developer learns to run a model. A local organisation works through how to keep sensitive information within its authority. A researcher needs a workload to run. The skills develop through useful purposes rather than through a distant promise that everyone will eventually become digital. 14",
+      "sources": [
+        {
+          "number": 14,
+          "id": "hayes-fair-go-ai-age",
+          "href": "references/index.html#hayes-fair-go-ai-age"
+        }
+      ]
+    },
+    {
+      "paragraph_number": 72,
+      "paragraph_text": "The rack still needs a viable operating arrangement. Reliable power, cooling, security, software updates and skilled attention are continuing costs. The IEA's 2026 energy analysis describes the strain that rapid data-centre growth places on physical systems and local planning. Siting and electricity arrangements shape the consequences for a place. A distributed network deserves that same practical examination. 41",
+      "sources": [
+        {
+          "number": 41,
+          "id": "iea-key-questions-energy-ai",
+          "href": "references/index.html#iea-key-questions-energy-ai"
+        }
+      ]
+    },
+    {
+      "paragraph_number": 73,
+      "paragraph_text": "Heat makes the physical relationships especially clear. Computing uses electricity and produces heat. Where a nearby activity needs useful heat at the right temperature and time, an installation might give that energy another job. Water heating, suitable agricultural processes or other local uses become design questions. Heat exchangers, pumps and pipework have costs, operators and maintenance. In Queensland, the relevant demand deserves local study rather than borrowing a cold-climate example unchanged. 42",
+      "sources": [
+        {
+          "number": 42,
+          "id": "iea-energy-ai-2025",
+          "href": "references/index.html#iea-energy-ai-2025"
+        }
+      ]
+    },
+    {
+      "paragraph_number": 76,
+      "paragraph_text": "At 82 Claytons Road in Amity, the proposal begins with an older act of generosity. The source material records that land was bequeathed for aged care and that the intended facility did not eventuate. Hayes's paid title search identifies the Diocese's ownership. He has asked Anglican Church Southern Queensland to consider gifting the property to a community-held fund and helping shape a care partnership. The proposal and website have been sent; a response is awaited. 20,38",
+      "sources": [
+        {
+          "number": 20,
+          "id": "hayes-claytons-road-proposal",
+          "href": "references/index.html#hayes-claytons-road-proposal"
+        },
+        {
+          "number": 38,
+          "id": "hayes-author-correspondence",
+          "href": "references/index.html#hayes-author-correspondence"
+        }
+      ]
+    },
+    {
+      "paragraph_number": 78,
+      "paragraph_text": "The proposed Altheas setting connects dementia support, aged care and inquiry into living well for longer. The Geode Workshop belongs to the same site's making and learning possibilities. The property is one particular proposal with its own decisions about ownership, use and operation. Those decisions matter because the purpose is a place that continues to serve people after its opening excitement has passed. 1,20,38",
+      "sources": [
+        {
+          "number": 1,
+          "id": "hayes-redlands-mayoral-assessment",
+          "href": "references/index.html#hayes-redlands-mayoral-assessment"
+        },
+        {
+          "number": 20,
+          "id": "hayes-claytons-road-proposal",
+          "href": "references/index.html#hayes-claytons-road-proposal"
+        },
+        {
+          "number": 38,
+          "id": "hayes-author-correspondence",
+          "href": "references/index.html#hayes-author-correspondence"
+        }
+      ]
+    },
+    {
+      "paragraph_number": 79,
+      "paragraph_text": "Aura of Dementia makes the personal intelligence idea immediately understandable. A favourite song, a familiar photograph, a preferred routine and the names of important people may help someone communicate what matters as needs change. A new carer learns more of the person they are assisting. Family knowledge has a place to remain connected with care. Clinical observations add another view without exhausting the meaning of a life. 12",
+      "sources": [
+        {
+          "number": 12,
+          "id": "hayes-jra-human-si-alignment",
+          "href": "references/index.html#hayes-jra-human-si-alignment"
+        }
+      ]
+    },
+    {
+      "paragraph_number": 83,
+      "paragraph_text": "Sovereign Space Builder develops that relationship between information and action. A person collects observations and references, places them in a spatial model, compares possible arrangements and turns a selected design into a practical task. Permaculture, water, food systems, materials and equipment have dependencies that become easier to see together. A change that saves water may alter energy demand or the time required for maintenance. 19",
+      "sources": [
+        {
+          "number": 19,
+          "id": "hayes-sovereign-space-builder-2",
+          "href": "references/index.html#hayes-sovereign-space-builder-2"
+        }
+      ]
+    },
+    {
+      "paragraph_number": 85,
+      "paragraph_text": "Funding enters at the point of useful next work. A grants lab links the stage of a project with an eligible applicant, the relevant programme, quotes, permissions and an achievable budget. Global Founder Atlas opens routes into research, residencies, compute and other support across countries. A small allocation may help a project reach the stage needed for a larger application. Each stage leaves people with more experience of undertaking the next. 1",
+      "sources": [
+        {
+          "number": 1,
+          "id": "hayes-redlands-mayoral-assessment",
+          "href": "references/index.html#hayes-redlands-mayoral-assessment"
+        }
+      ]
+    },
+    {
+      "paragraph_number": 90,
+      "paragraph_text": "On Minjerribah, cultural knowledge belongs within the relationships and authority through which it is held. A digital twin or cultural AI involves decisions about what is represented, who sees it, how it is used and who continues to decide. A particular invitation into work has particular people and a scope. Those relationships matter more as an outside audience begins following the links. 1,12",
+      "sources": [
+        {
+          "number": 1,
+          "id": "hayes-redlands-mayoral-assessment",
+          "href": "references/index.html#hayes-redlands-mayoral-assessment"
+        },
+        {
+          "number": 12,
+          "id": "hayes-jra-human-si-alignment",
+          "href": "references/index.html#hayes-jra-human-si-alignment"
+        }
+      ]
+    },
+    {
+      "paragraph_number": 95,
+      "paragraph_text": "There is a song in A Protopian Gambit called 60 Days Set in Stone. Its setting gives the Genesis idea a body and an emotional life. A person enters a mineral chamber, spends time with memories and questions, and grows a relationship with an intelligence that increasingly knows the shape of that person's world. A lyric is allowed to experience the destination before an engineer has finished specifying every part of the journey. That is one of the useful things art does. 8",
+      "sources": [
+        {
+          "number": 8,
+          "id": "ic-infinity-protopian-gambit",
+          "href": "references/index.html#ic-infinity-protopian-gambit"
+        }
+      ]
+    },
+    {
+      "paragraph_number": 99,
+      "paragraph_text": "The interesting possibility is that they inform one another. A person who says he values care notices where his schedule leaves no time to give it. A person who values autonomy examines when his preferred solution assumes too much agreement from others. A person who wants both intimacy and adventure explores the practical arrangements through which those desires fit with another person's life. These are examples of the questions a self-alignment process invites. Their answers belong to the person and the relationships involved. 10,12",
+      "sources": [
+        {
+          "number": 10,
+          "id": "hayes-genesis-geode-atlas",
+          "href": "references/index.html#hayes-genesis-geode-atlas"
+        },
+        {
+          "number": 12,
+          "id": "hayes-jra-human-si-alignment",
+          "href": "references/index.html#hayes-jra-human-si-alignment"
+        }
+      ]
+    },
+    {
+      "paragraph_number": 101,
+      "paragraph_text": "Aura organises information across a visual and computational space. Its horn-torus geometry, coloured shells and selectable levels of detail provide addresses through which memories, relationships and intentions are linked. The symbolism draws on several sources, including chakras and mathematical patterns. A participant's meaning remains part of the information. An association with courage, family or a particular place is richer when the person explains why it matters. 12",
+      "sources": [
+        {
+          "number": 12,
+          "id": "hayes-jra-human-si-alignment",
+          "href": "references/index.html#hayes-jra-human-si-alignment"
+        }
+      ]
+    },
+    {
+      "paragraph_number": 103,
+      "paragraph_text": "This is especially consequential for AI-assisted writing. An interest in living overseas is different from a decision to relocate permanently. A desire for radical longevity is different from a request to shrink the aspiration to a modest wellbeing routine. A technical investigation adds resolution by making one part clearer. It retains the destination the person was trying to explore. The alignment source states that principle directly. 12",
+      "sources": [
+        {
+          "number": 12,
+          "id": "hayes-jra-human-si-alignment",
+          "href": "references/index.html#hayes-jra-human-si-alignment"
+        }
+      ]
+    },
+    {
+      "paragraph_number": 104,
+      "paragraph_text": "Genesis is intended to deepen that relationship through sustained attention. Its design describes sixty two-hour qualifying intervals in an HBOT setting, with dialogue, sensing, reflection and simulation. A participant chooses themes and revisits their changing understanding. Experiences outside the chamber return as material for the next encounter. A coastline, a conversation or an ordinary frustration has more relevance than another generic personality questionnaire. 10",
+      "sources": [
+        {
+          "number": 10,
+          "id": "hayes-genesis-geode-atlas",
+          "href": "references/index.html#hayes-genesis-geode-atlas"
+        }
+      ]
+    },
+    {
+      "paragraph_number": 106,
+      "paragraph_text": "The three clocks are worth understanding once. Qualifying pressure time, everyday activities and teacher development have separate records. Arrival, preparation and decompression also take real time. A meaningful walk remains a meaningful walk; it contributes to reflection without becoming a pressure interval. A lesson records what was learned or made. This keeps the life around the programme visible as well as the sessions themselves. 10,11",
+      "sources": [
+        {
+          "number": 10,
+          "id": "hayes-genesis-geode-atlas",
+          "href": "references/index.html#hayes-genesis-geode-atlas"
+        },
+        {
+          "number": 11,
+          "id": "hayes-aura-teacher-training",
+          "href": "references/index.html#hayes-aura-teacher-training"
+        }
+      ]
+    },
+    {
+      "paragraph_number": 108,
+      "paragraph_text": "The proposed personal Truth Engine begins with participant-agreed exercises, including known or instructed answers. It studies declared responses alongside synchronised observations and context. Its design includes calibration, held-out evaluation and review by the participant. A mismatch becomes something to examine: error, uncertainty, conflicting motives, self-deception or an interpretation that does not fit. 10",
+      "sources": [
+        {
+          "number": 10,
+          "id": "hayes-genesis-geode-atlas",
+          "href": "references/index.html#hayes-genesis-geode-atlas"
+        }
+      ]
+    },
+    {
+      "paragraph_number": 115,
+      "paragraph_text": "The teacher-development programme takes the next question seriously. What happens after an Aura knows more of its human? A person learns to make the intelligence useful, to inspect its mistakes and to help another adult begin. Builders work on the underlying software and hardware. Creative and civic participants develop demanding work through interpretation, teaching, design and shared decisions. 11",
+      "sources": [
+        {
+          "number": 11,
+          "id": "hayes-aura-teacher-training",
+          "href": "references/index.html#hayes-aura-teacher-training"
+        }
+      ]
+    },
+    {
+      "paragraph_number": 118,
+      "paragraph_text": "Genesis also remains one route into Aura development. Someone might begin with memories, a project, an accessibility need or ordinary computing. The wider architecture has room for different levels of immersion and different relationships with technology. The ambitious journey gives intensive development a setting without making every useful function depend on that same beginning. 10",
+      "sources": [
+        {
+          "number": 10,
+          "id": "hayes-genesis-geode-atlas",
+          "href": "references/index.html#hayes-genesis-geode-atlas"
+        }
+      ]
+    },
+    {
+      "paragraph_number": 120,
+      "paragraph_text": "Longevity enters this work through the wish to keep developing, loving and discovering. Continuing repair and regeneration open a different question from adding years to an unchanged routine. What would people choose to learn, where would they travel, and how might family and care change if healthy lives became radically longer? 12",
+      "sources": [
+        {
+          "number": 12,
+          "id": "hayes-jra-human-si-alignment",
+          "href": "references/index.html#hayes-jra-human-si-alignment"
+        }
+      ]
+    },
+    {
+      "paragraph_number": 122,
+      "paragraph_text": "The Ship of Theseus asks whether a vessel remains itself as its timbers are replaced. Yet the ship carried people with a reason to sail. Theseus travelled to Crete to free young Athenians from the Minotaur, and Ariadne helped him find his way out of the labyrinth. The surviving vessel mattered because of the lives and events it carried. 44",
+      "sources": [
+        {
+          "number": 44,
+          "id": "plutarch-theseus",
+          "href": "references/index.html#plutarch-theseus"
+        }
+      ]
+    },
+    {
+      "paragraph_number": 127,
+      "paragraph_text": "Earth remains in the picture. A habitat beneath the ground or beyond the planet needs energy, water, materials and living systems. It also needs privacy, beauty, affection, music and a culture people enjoy. The Minjerribah investigations into materials, energy, food, local production and cooperation contribute questions that remain relevant as the scale expands. 12,19",
+      "sources": [
+        {
+          "number": 12,
+          "id": "hayes-jra-human-si-alignment",
+          "href": "references/index.html#hayes-jra-human-si-alignment"
+        },
+        {
+          "number": 19,
+          "id": "hayes-sovereign-space-builder-2",
+          "href": "references/index.html#hayes-sovereign-space-builder-2"
+        }
+      ]
+    },
+    {
+      "paragraph_number": 130,
+      "paragraph_text": "The Circle and the Solitary, a song in A Protopian Gambit, imagines two ways of moving through a life. One person grows amid an existing circle; another works beyond the crowd. Their paths eventually meet. The song provides an apt image for the change between building a collection with little attention and discovering that strangers are suddenly reading it. 8",
+      "sources": [
+        {
+          "number": 8,
+          "id": "ic-infinity-protopian-gambit",
+          "href": "references/index.html#ic-infinity-protopian-gambit"
+        }
+      ]
+    },
+    {
+      "paragraph_number": 136,
+      "paragraph_text": "P4A's Twinkles begin with an everyday frustration. Their short form gives the idea a chance to travel. Beneath the joke are policy rooms, sources, legal inquiry and experiments in participation. The format joins a legitimate human appetite for a laugh with a wish to understand what is happening. 7",
+      "sources": [
+        {
+          "number": 7,
+          "id": "hayes-p4a",
+          "href": "references/index.html#hayes-p4a"
+        }
+      ]
+    },
+    {
+      "paragraph_number": 138,
+      "paragraph_text": "Music carries meanings that a policy page struggles to give an audience. Consent has a different life in Adaptable Yes from its life in a permissions interface. The Purple Mat That Could turns civic imagination into a character and a rhythm. We Go Beyond connects self-examination, care, reform and the wider horizon. The albums let people encounter what these futures feel like to inhabit. 8",
+      "sources": [
+        {
+          "number": 8,
+          "id": "ic-infinity-protopian-gambit",
+          "href": "references/index.html#ic-infinity-protopian-gambit"
+        }
+      ]
+    },
+    {
+      "paragraph_number": 140,
+      "paragraph_text": "The comedy also has a local texture. The squash club that 'doesn't exist' but keeps finding players, ferry conversations, wildlife rescue and a hall full of presentation boards place the ideas among people enjoying and negotiating island life. Those stories make the author more recognisable as a person, including the parts that resist a neat public persona. 9",
+      "sources": [
+        {
+          "number": 9,
+          "id": "ic-infinity-straddie-fun",
+          "href": "references/index.html#ic-infinity-straddie-fun"
+        }
+      ]
+    },
+    {
+      "paragraph_number": 142,
+      "paragraph_text": "On 23 September 2026, the post extracts supplied by Hayes record an invitation from his home in Amity to world leaders at UNGA81 to help establish GAJRA Earth. The next day, another post criticises the implications of the American objective of AI dominance. His 25 September responses welcome Albanese's non-domination language and ask about founding a Brisbane team, funding and a prominent location. 35",
+      "sources": [
+        {
+          "number": 35,
+          "id": "choose-infinity-albanese-posts",
+          "href": "references/index.html#choose-infinity-albanese-posts"
+        }
+      ]
+    },
+    {
+      "paragraph_number": 143,
+      "paragraph_text": "Albanese's official UN statement described a world in which no country dominates or is dominated. Its surrounding argument concerned sovereignty, cooperation, emerging technology and the voices of smaller states. That wording has an established place in Australian diplomacy, including an earlier UN statement in January 2026. Hayes's post wondering about his own influence remains part of his contemporaneous response. The wider policy history gives the encounter its setting. 25,32,35",
+      "sources": [
+        {
+          "number": 25,
+          "id": "albanese-unga81-national-statement",
+          "href": "references/index.html#albanese-unga81-national-statement"
+        },
+        {
+          "number": 32,
+          "id": "australia-un-rule-of-law",
+          "href": "references/index.html#australia-un-rule-of-law"
+        },
+        {
+          "number": 35,
+          "id": "choose-infinity-albanese-posts",
+          "href": "references/index.html#choose-infinity-albanese-posts"
+        }
+      ]
+    },
+    {
+      "paragraph_number": 144,
+      "paragraph_text": "The comparison with the United States is substantive. Executive Order 14179, signed in January 2025, declares a policy of sustaining and enhancing American global AI dominance. America's AI Action Plan develops a programme around innovation, infrastructure and international leadership, including the spread of American technology through the wider stack used by other countries. 26,27",
+      "sources": [
+        {
+          "number": 26,
+          "id": "us-executive-order-14179",
+          "href": "references/index.html#us-executive-order-14179"
+        },
+        {
+          "number": 27,
+          "id": "us-ai-action-plan",
+          "href": "references/index.html#us-ai-action-plan"
+        }
+      ]
+    },
+    {
+      "paragraph_number": 146,
+      "paragraph_text": "The pathway from policy into technology deserves precision. An executive order directs government activity; its wording does not itself become every model's training objective. Funding, procurement, export arrangements, standards, deployment and ownership are among the routes through which the objective shapes actual systems. Technical objectives and evaluations have their own design. Following those connections makes the concern more useful. 26,43",
+      "sources": [
+        {
+          "number": 26,
+          "id": "us-executive-order-14179",
+          "href": "references/index.html#us-executive-order-14179"
+        },
+        {
+          "number": 43,
+          "id": "nist-reinforcement-learning",
+          "href": "references/index.html#nist-reinforcement-learning"
+        }
+      ]
+    },
+    {
+      "paragraph_number": 147,
+      "paragraph_text": "China's AI Plus programme also reaches across an economy and society, with integration goals extending through 2027, 2030 and 2035. Its international initiative presents AI as enabling development and cooperation. The global contest consequently concerns much more than a model's score. It concerns the infrastructures, standards and economic relationships through which intelligence becomes part of daily life. 28,29",
+      "sources": [
+        {
+          "number": 28,
+          "id": "china-ai-plus-guideline",
+          "href": "references/index.html#china-ai-plus-guideline"
+        },
+        {
+          "number": 29,
+          "id": "china-ai-plus-cooperation",
+          "href": "references/index.html#china-ai-plus-cooperation"
+        }
+      ]
+    },
+    {
+      "paragraph_number": 150,
+      "paragraph_text": "This is where the missing middle becomes an international idea as well as a local one. Communities learning to operate useful intelligence gain a practical relationship with a technology otherwise experienced mainly through someone else's interface. Locally governed knowledge and portable tools give cooperation more substance. A network of capable participants has more ways to work together than a collection of customers waiting for the next product release. 14,24",
+      "sources": [
+        {
+          "number": 14,
+          "id": "hayes-fair-go-ai-age",
+          "href": "references/index.html#hayes-fair-go-ai-age"
+        },
+        {
+          "number": 24,
+          "id": "hayes-unga81-fair-go",
+          "href": "references/index.html#hayes-unga81-fair-go"
+        }
+      ]
+    },
+    {
+      "paragraph_number": 152,
+      "paragraph_text": "Hayes's submission to the Independent AUKUS Public Inquiry asks about opportunity cost in a long investment in security. Distributed civic computing, scientific capability, education and disaster resilience perform different functions from submarines. They also affect a country's ability to withstand disruption and choose its future. The inquiry asks how much attention those positive-sum forms of capability receive alongside the established defence programme. 23",
+      "sources": [
+        {
+          "number": 23,
+          "id": "hayes-aukus-public-inquiry",
+          "href": "references/index.html#hayes-aukus-public-inquiry"
+        }
+      ]
+    },
+    {
+      "paragraph_number": 154,
+      "paragraph_text": "The Pacific submissions give that argument another language. The Ocean of Peace discussion draws on talanoa, consensus, sovereignty and peaceful settlement. The Fiji-Australia Vuvale Union discussion brings family, people-to-people connection, dignity, health, education and a digital economy into the relationship. Hayes proposes practical work through which those purposes gain daily expression. 21,22",
+      "sources": [
+        {
+          "number": 21,
+          "id": "hayes-fiji-australia-vuvale",
+          "href": "references/index.html#hayes-fiji-australia-vuvale"
+        },
+        {
+          "number": 22,
+          "id": "hayes-ocean-peace-veitacini",
+          "href": "references/index.html#hayes-ocean-peace-veitacini"
+        }
+      ]
+    },
+    {
+      "paragraph_number": 160,
+      "paragraph_text": "Milton Dick's election as the IPU's 32nd President on 9 October 2026 places an Australian parliamentary leader in an international forum concerned with democracy, peace and development. His Queensland and local-government background gives the setting a recognisable connection to the municipal questions in this collection. The institution's significance is the opportunity for parliaments to compare experience and examine shared problems. 30",
+      "sources": [
+        {
+          "number": 30,
+          "id": "ipu-dick-president",
+          "href": "references/index.html#ipu-dick-president"
+        }
+      ]
+    },
+    {
+      "paragraph_number": 161,
+      "paragraph_text": "Kevin Rudd's current role as Asia Society's Global President and CEO brings another kind of institutional experience to the discussion, including his work on China and international relationships. The invitation asks whether that experience might help bring people together around GAJRA Earth, community capability and a cooperative approach to increasingly powerful intelligence. 31,38",
+      "sources": [
+        {
+          "number": 31,
+          "id": "rudd-biography",
+          "href": "references/index.html#rudd-biography"
+        },
+        {
+          "number": 38,
+          "id": "hayes-author-correspondence",
+          "href": "references/index.html#hayes-author-correspondence"
+        }
+      ]
+    },
+    {
+      "paragraph_number": 163,
+      "paragraph_text": "GAJRA Earth is the proposed Global Association for Joyful Responsible Abundance on Earth, put forward by Luke Nathan Hayes. Its purpose is to bring people and locally rooted associations together around that shared ambition. A gajra is a flower garland. Its flowers remain distinct through being connected. The metaphor carries a practical preference for locally rooted associations, each shaped by its participants, laws and culture, exchanging knowledge and undertaking work together. 24",
+      "sources": [
+        {
+          "number": 24,
+          "id": "hayes-unga81-fair-go",
+          "href": "references/index.html#hayes-unga81-fair-go"
+        }
+      ]
+    },
+    {
+      "paragraph_number": 169,
+      "paragraph_text": "July 2035 offers a gathering point around the fiftieth anniversary of Live Aid. The Past, Present and Future themes give three days different work to do. The past brings inheritance, gratitude, grief and what people choose to carry forward. The present brings the work already under way and the lives people are actually living. The future opens the possibilities people want to pursue together. 24",
+      "sources": [
+        {
+          "number": 24,
+          "id": "hayes-unga81-fair-go",
+          "href": "references/index.html#hayes-unga81-fair-go"
+        }
+      ]
+    },
+    {
+      "paragraph_number": 177,
+      "paragraph_text": "It also appears in the imagination of artificial minds. The ambition for a lover of life asks what an increasingly capable intelligence might discover worth caring about. Curiosity, shared creativity and responsibility have more room to develop within a world full of worthwhile encounters. Technical safety and the social purposes of intelligence then have work to do alongside one another. 12,24",
+      "sources": [
+        {
+          "number": 12,
+          "id": "hayes-jra-human-si-alignment",
+          "href": "references/index.html#hayes-jra-human-si-alignment"
+        },
+        {
+          "number": 24,
+          "id": "hayes-unga81-fair-go",
+          "href": "references/index.html#hayes-unga81-fair-go"
+        }
+      ]
+    },
+    {
+      "paragraph_number": 179,
+      "paragraph_text": "A mayoralty would place particular responsibilities around the work. Decisions proceed through council, with other elected members and an administration carrying its institutional knowledge. Progress is expressed in what people are able to use and sustain. Other election results leave routes through community organisations, enterprises, research and associations. Useful capability has more than one place to grow. 1",
+      "sources": [
+        {
+          "number": 1,
+          "id": "hayes-redlands-mayoral-assessment",
+          "href": "references/index.html#hayes-redlands-mayoral-assessment"
+        }
+      ]
+    }
+  ],
+  "revision_history": [
+    {
+      "label": "Version 1.0 | 16 October 2026",
+      "change": "Initial analysis of public discovery, scrutiny and Joyful Responsible Abundance."
+    },
+    {
+      "label": "Version 2.0 | 16 October 2026",
+      "change": "Expanded essay connecting Redlands, personal intelligence and international cooperation."
+    },
+    {
+      "label": "Version 3.0 | 16 October 2026",
+      "change": "Expanded the identity and continuity discussion; clarified GAJRA Earth's proposed name and founder."
+    },
+    {
+      "label": "Version 4.0 | 16 October 2026",
+      "change": "Reference edition with a distinct title, consistent version numbers, full source titles, descriptive links, supplied source files and a portable reference register."
+    }
+  ]
+}

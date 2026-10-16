@@ -1,0 +1,28 @@
+{
+  "owner": "auraofintelligence",
+  "name": "Redlands_discovers_Luke_Hayes",
+  "visibility": "public",
+  "description": "A thought experiment connecting Redlands, P4A and i C. infinity music, HBOT, Aura Genesis and a fair go in the age of superintelligence.",
+  "homepage": "https://auraofintelligence.github.io/Redlands_discovers_Luke_Hayes/",
+  "topics": [
+    "redlands",
+    "minjerribah",
+    "aura-of-intelligence",
+    "aura-genesis",
+    "p4a",
+    "hbot",
+    "whole-systems-change",
+    "joyful-responsible-abundance",
+    "ai-governance",
+    "thought-experiment",
+    "github-pages"
+  ],
+  "pages": {
+    "build_type": "legacy",
+    "source": {
+      "branch": "main",
+      "path": "/"
+    }
+  },
+  "publication_status": "configured_for_github_pages"
+}

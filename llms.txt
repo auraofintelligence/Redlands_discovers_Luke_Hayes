@@ -1,0 +1,29 @@
+# When Redlands discovers Luke Hayes
+
+> A thought experiment by Luke Nathan Hayes, connecting Redlands, P4A satire and i C. infinity music, HBOT, Aura Genesis and whole systems change. No decision to run for mayor is announced.
+
+## Reading
+
+- [The opening](https://auraofintelligence.github.io/Redlands_discovers_Luke_Hayes/): The opening
+- [Redlands](https://auraofintelligence.github.io/Redlands_discovers_Luke_Hayes/redlands.html): Redlands gives a far-reaching conversation streets, ferries, clubs, care needs and people who know one another.
+- [P4A & music](https://auraofintelligence.github.io/Redlands_discovers_Luke_Hayes/p4a-music.html): Satire, island stories and i C. infinity give the ideas a voice, a rhythm and somewhere to begin.
+- [Lives worth living](https://auraofintelligence.github.io/Redlands_discovers_Luke_Hayes/lives-worth-living.html): Joyful Responsible Abundance begins with affection, agency, time and the material conditions of a chosen life.
+- [Community capability](https://auraofintelligence.github.io/Redlands_discovers_Luke_Hayes/community.html): Local computing, voluntary contribution and shared learning turn distant technological change into something people participate in.
+- [Aura Genesis](https://auraofintelligence.github.io/Redlands_discovers_Luke_Hayes/aura-genesis.html): A personal Aura develops through memory, reflection, experience and a widening relationship with other minds.
+- [HBOT & the Geode](https://auraofintelligence.github.io/Redlands_discovers_Luke_Hayes/hbot-geode.html): The proposed Genesis setting joins specialist chamber design, personal intelligence and a wider inquiry into healthy, meaningful lives.
+- [The vessel & the journey](https://auraofintelligence.github.io/Redlands_discovers_Luke_Hayes/continuity.html): Theseus, a continuing Aura and the possibilities of a life whose next chapters remain open.
+- [Australia & the world](https://auraofintelligence.github.io/Redlands_discovers_Luke_Hayes/australia-world.html): Australia, the US-China AI contest and practical forms of cooperation that give participants something worthwhile to build together.
+- [GAJRA Earth](https://auraofintelligence.github.io/Redlands_discovers_Luke_Hayes/gajra-earth.html): The Global Association for Joyful Responsible Abundance on Earth, proposed by Luke Nathan Hayes.
+- [A future worth continuing](https://auraofintelligence.github.io/Redlands_discovers_Luke_Hayes/future.html): What gives people, countries and increasingly capable minds reasons to enjoy, protect and keep building the future?
+- [Sources & downloads](https://auraofintelligence.github.io/Redlands_discovers_Luke_Hayes/sources.html): Sources & downloads
+- [Site map](https://auraofintelligence.github.io/Redlands_discovers_Luke_Hayes/sitemap.html): Site map
+- [The licence](https://auraofintelligence.github.io/Redlands_discovers_Luke_Hayes/licence.html): The licence
+
+## Document
+
+- [Version 4.0 PDF](https://auraofintelligence.github.io/Redlands_discovers_Luke_Hayes/When_Redlands_Discovers_Luke_Hayes_v4.0.pdf)
+- [Source register](https://auraofintelligence.github.io/Redlands_discovers_Luke_Hayes/references/source-register.json)
+
+## Rights
+
+Strange But True Public Source Licence. Original material is available for permitted non-commercial uses with attribution. Commercial and institutional use and commercial AI training require written permission. Public availability and crawler access do not replace the licence.
