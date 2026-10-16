@@ -1,5 +1,11 @@
 # Revision history
 
+## Website edition 1.0.1 - 16 October 2026
+
+- Replaced the incorrect walk-in HBOT image with the approved individual seated Geode artwork from Aura Genesis Geode Atlas.
+- Clarified that Aura Genesis HBOT is a solo journey of self-reflection.
+- Preserved the source documents and the original licence.
+
 ## Website edition 1.0.0 · 16 October 2026
 
 - Adapted document Version 4.0 into fourteen linked pages.

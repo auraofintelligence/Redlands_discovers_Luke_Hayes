@@ -50,12 +50,16 @@
       "sha256": "11a417297aa2a839dd757c842521af32323db6d81f397590fe5d79bd6846f23a"
     },
     {
-      "path": "assets/images/hbot-geode.png",
-      "generation_method": "OpenAI built-in ImageGen",
-      "created_on": "2026-10-16",
-      "description": "AI-generated concept artwork, not documentary photography.",
-      "prompt": "Create a sophisticated painterly editorial concept artwork for an Australian public ideas website. Warm cream, forest green and coral palette with gold light and restrained lavender accents. Cinematic wide landscape 16:9 composition, human scale, generous breathing space that crops well as a website hero. No printed words, letters, numbers, signage, logos or watermark. Clearly artwork, not documentary photography, not a factual diagram. Scene: a plausible walk-in hyperbaric oxygen chamber within a proposed coastal workshop and wellbeing learning space, illustrated as architectural concept art. The compact cylindrical hard-shell chamber has circular viewports, a proper closed circular pressure door, exterior gauges without readable numbers and a neatly organised control panel, with comfortable upright chairs visible through generous viewports. Adjacent open workshop area, warm daylight, Australian coastal plants, a simple timber chair and a person thoughtfully discussing plans at a nearby table. Calm respectful medical setting, no treatment demonstration, no patient tubes, no health promises. Physically believable pressure vessel proportions, forest green structural accents and cream shell, subtle coral surroundings.",
-      "sha256": "16403805b6945f040cde4d90673797fdb63ec8f00463e33edd1cf42e0155cd28"
+      "path": "assets/images/hbot-geode-solo.webp",
+      "generation_method": "Reused original OpenAI built-in ImageGen artwork from Aura Genesis Geode Atlas",
+      "created_on": "2026-10-15",
+      "reused_on": "2026-10-16",
+      "description": "Original concept artwork of a compact individual seated Geode for a solo self-reflection journey.",
+      "source_project": "Aura Genesis Geode Atlas by Luke Nathan Hayes / Aura of Intelligence",
+      "source_url": "https://auraofintelligence.github.io/aura-genesis-geode-atlas/assets/images/hero-index-v3.webp",
+      "source_page": "https://auraofintelligence.github.io/aura-genesis-geode-atlas/index.html",
+      "prompt": "Use case: precise-object-edit. Edit the attached website hero. Preserve its ivory mineral shell, champagne nonstructural seams, dark jade studio and right-hand composition. Widen the interior side bay enough for the active equipment without turning the enclosure into a room. Show a compact one-person seated ACTIVE SELF-REFLECTION WORKSTATION inside the chamber. Allow usable shoulder, elbow and head space for an upright adult, plus a genuine side equipment bay. Fit a reachable 18-inch haptic touchscreen on a clearly articulated side mount, parked beside the chair facing inward, showing restrained abstract reflection cards and a timeline without readable text. Add a recognisable lightweight VR/XR headset on a dedicated side dock, two neatly parked wearable bands, a small recessed sensor connection panel with distinct sockets and tidy cable channels, and a discreet receiver module. Reserve arm movement room for touch or XR. Equipment is within the shell, not mounted on the door; it folds back alongside the seat to preserve a broad near-full-height entry. No tray across the lap or doorway, no wires across the threshold. Show floor-level transfer access, a full-height transparent door swung fully aside, smooth internal surfaces. One upright adjustable chair, no bed, no sleeping scene, no walkable room. This is a speculative layout concept, no compliance stamps or claims. No people, no written labels, no logos. Separate compute remains external. Wide 16:9 editorial website hero. Photorealistic cinematic product and architectural photography, tactile materials and precise lighting. Deep dark jade, ivory, restrained champagne, mint and lilac. Compose the main subject entirely in the RIGHT 55 percent; keep LEFT 45 percent quiet, dark, low-detail negative space for large website text. Wide enough that the full subject and floor contact remain visible. No rendered text, logos, watermark, diagram, SVG aesthetic or crude geometric illustration. Produce one cohesive photograph-style image, not a collage or split panel.",
+      "sha256": "33d4bc295a6e062bfccc93821904594f42e8cd371d13b65acf77d4b9e483360b"
     },
     {
       "path": "assets/images/continuity.png",

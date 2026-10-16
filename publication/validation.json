@@ -22,7 +22,7 @@
       "gajra-earth.html": "assets/images/gajra-earth.png",
       "community.html": "assets/images/community.png",
       "redlands.html": "assets/images/redlands.png",
-      "hbot-geode.html": "assets/images/hbot-geode.png",
+      "hbot-geode.html": "assets/images/hbot-geode-solo.webp",
       "future.html": "assets/images/future.png",
       "p4a-music.html": "assets/images/p4a-music.png",
       "continuity.html": "assets/images/continuity.png",
@@ -35,7 +35,8 @@
     "pdf_missing_relative_attachments": [],
     "sources_search": "AND search on lowercased card data, visible card/group filtering, aria-live result count, hashchange resets query. No static functional errors found.",
     "content_framing": "Homepage, Redlands and Future explicitly describe a thought experiment; no assertion of a decided candidacy found. Genesis and HBOT remain proposed or conditional.",
-    "mobile_css": "760px and390px breakpoints, single-column articles/source cards, reduced motion, fluid image dimensions, wrapping source cards. No definite CSS overflow identified without rendered QA."
+    "mobile_css": "760px and390px breakpoints, single-column articles/source cards, reduced motion, fluid image dimensions, wrapping source cards. No definite CSS overflow identified without rendered QA.",
+    "aura_hbot_representation": "All Redlands illustrations reviewed. The HBOT asset shows an individual seated Geode, reused from the approved Aura Genesis Geode Atlas. Relevant copy explicitly describes a solo self-reflection journey."
   },
   "errors": [],
   "warnings": [],

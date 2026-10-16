@@ -6,7 +6,7 @@ A thought experiment by Luke Nathan Hayes about Redlands encountering his connec
 
 **Website:** https://auraofintelligence.github.io/Redlands_discovers_Luke_Hayes/
 
-**Website edition:** 1.0.0 · 16 October 2026  
+**Website edition:** 1.0.1 · 16 October 2026  
 **Source document:** Version 4.0, with its earlier revision history retained.
 
 ## Read
