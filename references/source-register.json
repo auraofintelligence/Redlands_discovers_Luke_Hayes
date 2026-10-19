@@ -1155,12 +1155,12 @@
       "author": "Luke Nathan Hayes / Aura of Intelligence",
       "publication_date": null,
       "date_label": "Living record; reviewed 19 October 2026",
-      "edition": "Repository at commit e0b790720768b00524dda63386a3284b951d4991",
+      "edition": "Repository at commit e7c2769428438ab31d3b15386a596c5799d55fe7",
       "kind": "public_repository",
       "role": "website_primary_source",
       "url": "https://github.com/auraofintelligence/open-record-luke-nathan-hayes",
       "accessed_on": "2026-10-19",
-      "note": "Major biographical and project source added in website edition 1.1.0. Connects autobiographical records, the website directory, original documents and dated corrections.",
+      "note": "Major biographical and project source added in website edition 1.1.0. Connects autobiographical records, the website directory, original documents, album lyric collections, listening routes and dated corrections.",
       "files": [],
       "links": [
         {
@@ -1169,7 +1169,7 @@
         },
         {
           "label": "Reviewed repository edition",
-          "url": "https://github.com/auraofintelligence/open-record-luke-nathan-hayes/tree/e0b790720768b00524dda63386a3284b951d4991"
+          "url": "https://github.com/auraofintelligence/open-record-luke-nathan-hayes/tree/e7c2769428438ab31d3b15386a596c5799d55fe7"
         },
         {
           "label": "Life record",
@@ -1182,6 +1182,10 @@
         {
           "label": "Original document archive",
           "url": "https://github.com/auraofintelligence/open-record-luke-nathan-hayes/blob/main/documents/README.md"
+        },
+        {
+          "label": "Music, lyrics and listening",
+          "url": "https://github.com/auraofintelligence/open-record-luke-nathan-hayes/blob/main/documents/music/README.md"
         }
       ],
       "locators": [],
