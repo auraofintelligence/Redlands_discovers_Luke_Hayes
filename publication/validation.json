@@ -1,146 +1,39 @@
 {
+  "checked_on": "2026-10-19",
+  "website_version": "1.1.0",
   "checks": {
-    "html_pages": 14,
-    "local_links_checked": 710,
-    "source_records": 44,
-    "source_cards": 44,
+    "html_pages": 15,
+    "redirect_pages": 1,
+    "local_links_checked": 732,
+    "source_records": 45,
+    "document_source_records_unchanged": 44,
+    "source_cards": 45,
     "files_hashed": 20,
     "all_hashes_match": true,
-    "licence_sha256": "cfe4dfb77ee8e4df7fa25256d14f2cf69c56010d4edf589c2c612fadd0c98438",
-    "licence_matches": true,
-    "sitemap_urls": 14,
-    "homepage_downloads": [
-      "When_Redlands_Discovers_Luke_Hayes_v4.0.pdf"
-    ],
-    "homepage_external_anchor_links": [],
+    "sitemap_urls": 15,
     "hero_files": {
-      "aura-genesis.html": "assets/images/aura-genesis.png",
-      "australia-world.html": "assets/images/australia-world.png",
-      "licence.html": "assets/images/licence.png",
-      "lives-worth-living.html": "assets/images/lives-worth-living.png",
       "index.html": "assets/images/home.png",
-      "gajra-earth.html": "assets/images/gajra-earth.png",
-      "community.html": "assets/images/community.png",
-      "redlands.html": "assets/images/redlands.png",
-      "hbot-geode.html": "assets/images/hbot-geode-solo.webp",
-      "future.html": "assets/images/future.png",
       "p4a-music.html": "assets/images/p4a-music.png",
+      "future.html": "assets/images/future.png",
+      "hbot-geode.html": "assets/images/hbot-geode-solo.webp",
+      "lives-worth-living.html": "assets/images/lives-worth-living.png",
+      "sources.html": "assets/images/sources.png",
+      "licence.html": "assets/images/licence.png",
       "continuity.html": "assets/images/continuity.png",
+      "open-record.html": "assets/images/open-record.webp",
+      "community.html": "assets/images/community.png",
+      "aura-genesis.html": "assets/images/aura-genesis.png",
+      "gajra-earth.html": "assets/images/gajra-earth.png",
       "sitemap.html": "assets/images/sitemap.png",
-      "sources.html": "assets/images/sources.png"
+      "redlands.html": "assets/images/redlands.png",
+      "australia-world.html": "assets/images/australia-world.png"
     },
-    "unique_heroes": 14,
-    "pdf_pages": 25,
-    "pdf_uri_links": 81,
-    "pdf_missing_relative_attachments": [],
-    "sources_search": "AND search on lowercased card data, visible card/group filtering, aria-live result count, hashchange resets query. No static functional errors found.",
-    "content_framing": "Homepage, Redlands and Future explicitly describe a thought experiment; no assertion of a decided candidacy found. Genesis and HBOT remain proposed or conditional.",
-    "mobile_css": "760px and390px breakpoints, single-column articles/source cards, reduced motion, fluid image dimensions, wrapping source cards. No definite CSS overflow identified without rendered QA.",
-    "aura_hbot_representation": "All Redlands illustrations reviewed. The HBOT asset shows an individual seated Geode, reused from the approved Aura Genesis Geode Atlas. Relevant copy explicitly describes a solo self-reflection journey."
+    "unique_heroes": 15,
+    "new_artwork_bytes": 286836,
+    "all_page_menus_and_footers": true,
+    "previous_next_sequence": true,
+    "licence_and_source_documents_unchanged": true
   },
   "errors": [],
-  "warnings": [],
-  "hashes": [
-    {
-      "file": "references/files/hayes-redlands-mayoral-by-election-assessment-2026-10-14.pdf",
-      "match": true,
-      "bytes_match": true
-    },
-    {
-      "file": "references/files/hayes-constitutional-matrix-of-participation-2014-07-15.pdf",
-      "match": true,
-      "bytes_match": true
-    },
-    {
-      "file": "references/files/project-atlas-projects-snapshot-2026-10-09.json",
-      "match": true,
-      "bytes_match": true
-    },
-    {
-      "file": "references/files/ic-infinity-a-protopian-gambit-lyrics-updated-2026-07-04.pdf",
-      "match": true,
-      "bytes_match": true
-    },
-    {
-      "file": "references/files/ic-infinity-straddie-fun-lyrics-updated-2026-07-17.pdf",
-      "match": true,
-      "bytes_match": true
-    },
-    {
-      "file": "references/files/hayes-aura-teacher-training-sixty-days-2026-10-14.pdf",
-      "match": true,
-      "bytes_match": true
-    },
-    {
-      "file": "references/files/hayes-jra-human-superintelligence-alignment-revised-2026-10-11.pdf",
-      "match": true,
-      "bytes_match": true
-    },
-    {
-      "file": "references/files/hayes-community-hours-jra-plan-edition-5-2026-09-23.pdf",
-      "match": true,
-      "bytes_match": true
-    },
-    {
-      "file": "references/files/hayes-fair-go-ai-age-postcode-sovereign-compute-2026-08-18.docx",
-      "match": true,
-      "bytes_match": true
-    },
-    {
-      "file": "references/files/hayes-local-government-funding-submission-2-undated.pdf",
-      "match": true,
-      "bytes_match": true
-    },
-    {
-      "file": "references/files/hayes-ready-set-co-2026-strategy-undated.pdf",
-      "match": true,
-      "bytes_match": true
-    },
-    {
-      "file": "references/files/hayes-project-aura-geode-hbot-cooperative-framework-undated.pdf",
-      "match": true,
-      "bytes_match": true
-    },
-    {
-      "file": "references/files/hayes-decentralized-global-sensorium-strategic-plan-undated.pdf",
-      "match": true,
-      "bytes_match": true
-    },
-    {
-      "file": "references/files/hayes-sovereign-space-builder-part-2-specification-undated.pdf",
-      "match": true,
-      "bytes_match": true
-    },
-    {
-      "file": "references/files/hayes-gift-for-generations-82-claytons-road-2026-09-22.pdf",
-      "match": true,
-      "bytes_match": true
-    },
-    {
-      "file": "references/files/hayes-fiji-australia-vuvale-union-submission-2026-08-29.docx",
-      "match": true,
-      "bytes_match": true
-    },
-    {
-      "file": "references/files/hayes-ocean-of-peace-veitacini-treaty-submission-2026-08-27.docx",
-      "match": true,
-      "bytes_match": true
-    },
-    {
-      "file": "references/files/hayes-aukus-public-inquiry-distributed-civic-ai-2026-08-24.docx",
-      "match": true,
-      "bytes_match": true
-    },
-    {
-      "file": "references/files/hayes-fair-go-age-intelligence-unga81-2026-09.pdf",
-      "match": true,
-      "bytes_match": true
-    },
-    {
-      "file": "references/files/hayes-queensland-heart-first-ai-surge-plan-undated.pdf",
-      "match": true,
-      "bytes_match": true
-    }
-  ],
-  "limits": "Static HTML/CSS/JS and content audit only. No rendered browser QA under the managed Sites environment."
+  "limits": "Static content, links, metadata and source-integrity checks. Browser checks are recorded separately."
 }

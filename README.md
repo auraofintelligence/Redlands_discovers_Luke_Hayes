@@ -6,14 +6,15 @@ A thought experiment by Luke Nathan Hayes about Redlands encountering his connec
 
 **Website:** https://auraofintelligence.github.io/Redlands_discovers_Luke_Hayes/
 
-**Website edition:** 1.0.1 · 16 October 2026  
+**Website edition:** 1.1.0 · 19 October 2026  
 **Source document:** Version 4.0, with its earlier revision history retained.
 
 ## Read
 
 - Open `index.html` for the opening and prominent HBOT and P4A routes.
-- Open `sitemap.html` for all fourteen pages.
-- Open `sources.html` for all forty-four references and downloadable source files.
+- Open `open-record.html` for the major Open Record source and routes through the life, projects and document archive.
+- Open `sitemap.html` for all fifteen pages.
+- Open `sources.html` for forty-five reference entries: the original forty-four document sources and Open Record as website source 45.
 - The original Version 4.0 PDF and Word files are at the repository root.
 - `references/source-register.json` retains source identifiers, edition information and checksums.
 

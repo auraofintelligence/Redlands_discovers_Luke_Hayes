@@ -1,5 +1,13 @@
 # Revision history
 
+## Website edition 1.1.0 - 19 October 2026
+
+- Introduced Open Record prominently on the home page and added its own reading page.
+- Added the repository as major website source 45, with a reviewed edition and routes to the life record, project directory and original documents.
+- Connected the new page through every Explore menu and footer, the previous/next reading sequence, both site maps and crawler reading list.
+- Added original coastal studio artwork for the Open Record page.
+- Retained the Version 4.0 source document, its forty-four reference records and the original licence.
+
 ## Website edition 1.0.1 - 16 October 2026
 
 - Replaced the incorrect walk-in HBOT image with the approved individual seated Geode artwork from Aura Genesis Geode Atlas.

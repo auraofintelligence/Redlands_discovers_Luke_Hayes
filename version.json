@@ -1,9 +1,10 @@
 {
-  "website_version": "1.0.1",
+  "website_version": "1.1.0",
   "document_version": "4.0",
   "title": "When Redlands discovers Luke Hayes",
-  "release_date": "2026-10-16",
+  "release_date": "2026-10-19",
   "canonical_url": "https://auraofintelligence.github.io/Redlands_discovers_Luke_Hayes/",
   "licence": "Strange But True Public Source Licence",
-  "reference_count": 44
+  "reference_count": 45,
+  "document_reference_count": 44
 }

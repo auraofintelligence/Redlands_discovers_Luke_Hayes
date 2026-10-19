@@ -1147,6 +1147,45 @@
       "links": [],
       "locators": [],
       "primary_href": "https://classics.mit.edu/Plutarch/theseus.html"
+    },
+    {
+      "id": "hayes-open-record",
+      "number": 45,
+      "title": "Luke Nathan Hayes: an open record of a life and a connected body of work",
+      "author": "Luke Nathan Hayes / Aura of Intelligence",
+      "publication_date": null,
+      "date_label": "Living record; reviewed 19 October 2026",
+      "edition": "Repository at commit 47217cb2521143f991cc6ef90f9b3c3a11a3057a",
+      "kind": "public_repository",
+      "role": "website_primary_source",
+      "url": "https://github.com/auraofintelligence/open-record-luke-nathan-hayes",
+      "accessed_on": "2026-10-19",
+      "note": "Major biographical and project source added in website edition 1.1.0. Connects autobiographical records, the website directory, original documents and dated corrections.",
+      "files": [],
+      "links": [
+        {
+          "label": "Introduction on this website",
+          "url": "open-record.html"
+        },
+        {
+          "label": "Reviewed repository edition",
+          "url": "https://github.com/auraofintelligence/open-record-luke-nathan-hayes/tree/47217cb2521143f991cc6ef90f9b3c3a11a3057a"
+        },
+        {
+          "label": "Life record",
+          "url": "https://github.com/auraofintelligence/open-record-luke-nathan-hayes/blob/main/docs/life-record.md"
+        },
+        {
+          "label": "Website directory",
+          "url": "https://github.com/auraofintelligence/open-record-luke-nathan-hayes/blob/main/docs/website-directory.md"
+        },
+        {
+          "label": "Original document archive",
+          "url": "https://github.com/auraofintelligence/open-record-luke-nathan-hayes/blob/main/documents/README.md"
+        }
+      ],
+      "locators": [],
+      "primary_href": "https://github.com/auraofintelligence/open-record-luke-nathan-hayes"
     }
   ],
   "citations": [
@@ -1908,6 +1947,19 @@
     {
       "label": "Version 4.0 | 16 October 2026",
       "change": "Reference edition with a distinct title, consistent version numbers, full source titles, descriptive links, supplied source files and a portable reference register."
+    }
+  ],
+  "website_version": "1.1.0",
+  "website_as_of": "2026-10-19",
+  "website_citations": [
+    {
+      "pages": [
+        "index.html",
+        "open-record.html"
+      ],
+      "source_ids": [
+        "hayes-open-record"
+      ]
     }
   ]
 }

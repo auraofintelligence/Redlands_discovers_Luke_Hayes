@@ -15,9 +15,14 @@
 - [Australia & the world](https://auraofintelligence.github.io/Redlands_discovers_Luke_Hayes/australia-world.html): Australia, the US-China AI contest and practical forms of cooperation that give participants something worthwhile to build together.
 - [GAJRA Earth](https://auraofintelligence.github.io/Redlands_discovers_Luke_Hayes/gajra-earth.html): The Global Association for Joyful Responsible Abundance on Earth, proposed by Luke Nathan Hayes.
 - [A future worth continuing](https://auraofintelligence.github.io/Redlands_discovers_Luke_Hayes/future.html): What gives people, countries and increasingly capable minds reasons to enjoy, protect and keep building the future?
+- [Open Record](https://auraofintelligence.github.io/Redlands_discovers_Luke_Hayes/open-record.html): A major source for the life, music, connected projects and original documents behind the story.
 - [Sources & downloads](https://auraofintelligence.github.io/Redlands_discovers_Luke_Hayes/sources.html): Sources & downloads
 - [Site map](https://auraofintelligence.github.io/Redlands_discovers_Luke_Hayes/sitemap.html): Site map
 - [The licence](https://auraofintelligence.github.io/Redlands_discovers_Luke_Hayes/licence.html): The licence
+
+## Major source
+
+- [Open Record: Luke Nathan Hayes](https://github.com/auraofintelligence/open-record-luke-nathan-hayes): Public life and project record, original documents, source trails and revisions.
 
 ## Document
 

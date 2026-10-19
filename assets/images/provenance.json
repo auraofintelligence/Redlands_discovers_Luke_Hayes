@@ -116,6 +116,14 @@
       "description": "AI-generated concept artwork, not documentary photography.",
       "prompt": "Use case: stylized-concept. Asset type: editorial website hero image, wide cinematic 16:9 landscape. Style: sophisticated painterly editorial concept art, organic textures, warm cream, forest green and coral palette, gold light, restrained lavender accent, human scale, understated hopeful mood. Close and warm composition of craftspeople's and artists' hands sharing a flowing colourful fabric artwork over an inviting timber table in a coastal creative studio. Different ages and skin tones, mutual respect and creative ownership in a welcoming community. Light filters through the fabric's translucent woven textures and casts coloured patterns across the wood. Symbolic concept art, not a photograph of real people or actual facilities. No printed words, lettering, logos, flags, watermarks or labels.",
       "sha256": "684aed78524fccc10de10dd2cbf67b89fee7ce1674caf81e2ae0a36dd41481d3"
+    },
+    {
+      "path": "assets/images/open-record.webp",
+      "generation_method": "OpenAI built-in ImageGen",
+      "created_on": "2026-10-19",
+      "description": "Original painterly coastal studio concept artwork for the Open Record introduction, not documentary photography.",
+      "prompt": "Use case: stylized-concept. Asset type: a new wide 16:9 editorial website hero for an Open Record page in the When Redlands discovers Luke Hayes website. Primary request: a sophisticated painterly coastal studio scene about a lived life and its connected body of work becoming available for readers to explore. Scene: an inviting timber desk beside an open window looking across subtropical Australian island water; a well-used open personal notebook with abstract non-readable marks, a small stack of old photographs with indistinct scenes, maps and handwritten papers, and a modest laptop displaying quiet abstract connected points. A few fine warm gold threads gently connect the notebook, photographs, a musical instrument and the sea horizon, suggesting memories, music, projects and public ideas. Grounded, human scale, calm and thoughtful. Style: textured painterly editorial art, warm cream, forest green, coral and gold light with restrained lavender accents; match the existing coastal editorial art direction. Wide composition with generous breathing room and clear foreground textures. No printed words, legible writing, letters, numbers, logos, flags, official seals, watermarks, diagrams, collage panels or real identifiable people. This is symbolic artwork, not documentary photography.",
+      "sha256": "cbaadc6662cee20299ac581dfa958bed1a44b90839386bb406d059c997de6daf"
     }
   ]
 }
